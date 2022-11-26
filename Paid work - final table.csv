@@ -1,0 +1,910 @@
+Slno,Course,Vacant Seats,Differently Abled,College,District,College Sector,Course Sector
+1,BA - English,4,0,"Baby John Memorial Govt. College,Chavara",Kollam,Government,Government
+2,BA - History,0,0,"Baby John Memorial Govt. College,Chavara",Kollam,Government,Government
+3,BSc - Chemistry,3,2,"Baby John Memorial Govt. College,Chavara",Kollam,Government,Government
+4,BSc - Mathematics,19,3,"Baby John Memorial Govt. College,Chavara",Kollam,Government,Government
+5,BSc - Physics,8,2,"Baby John Memorial Govt. College,Chavara",Kollam,Government,Government
+6,BSc - Zoology,1,2,"Baby John Memorial Govt. College,Chavara",Kollam,Government,Government
+7,BCom - Co-operation,1,0,"Baby John Memorial Govt. College,Chavara",Kollam,Government,Government
+8,BCom - Computer Application,1,1,"Baby John Memorial Govt. College,Chavara",Kollam,Government,Government
+9,BA - Economics,2,1,"Govt. Arts & Science College,Ambalapuzha",Alappuzha,Government,Government
+10,BSc - Mathematics,20,1,"Govt. Arts & Science College,Ambalapuzha",Alappuzha,Government,Government
+11,BCom - Computer Application,0,0,"Govt. Arts & Science College,Ambalapuzha",Alappuzha,Government,Government
+12,BA - Arabic,1,2,"University College, Palayam",Thiruvananthapuram,Government,Government
+13,BA - Economics,3,0,"University College, Palayam",Thiruvananthapuram,Government,Government
+14,BA - English,2,1,"University College, Palayam",Thiruvananthapuram,Government,Government
+15,BA - Hindi,0,1,"University College, Palayam",Thiruvananthapuram,Government,Government
+16,BA - History,2,0,"University College, Palayam",Thiruvananthapuram,Government,Government
+17,BA - Islamic History,1,0,"University College, Palayam",Thiruvananthapuram,Government,Government
+18,BA - Malayalam,0,0,"University College, Palayam",Thiruvananthapuram,Government,Government
+19,BA - Philosophy,1,1,"University College, Palayam",Thiruvananthapuram,Government,Government
+20,BA - Political Science,4,0,"University College, Palayam",Thiruvananthapuram,Government,Government
+21,BA - Sanskrit,0,1,"University College, Palayam",Thiruvananthapuram,Government,Government
+22,BA - Tamil,0,1,"University College, Palayam",Thiruvananthapuram,Government,Government
+23,BSc - Botany,1,2,"University College, Palayam",Thiruvananthapuram,Government,Government
+24,BSc - Chemistry,1,2,"University College, Palayam",Thiruvananthapuram,Government,Government
+25,BSc - Geography,1,1,"University College, Palayam",Thiruvananthapuram,Government,Government
+26,BSc - Geology,0,0,"University College, Palayam",Thiruvananthapuram,Government,Government
+27,BSc - Mathematics,1,3,"University College, Palayam",Thiruvananthapuram,Government,Government
+28,BSc - Physics,2,2,"University College, Palayam",Thiruvananthapuram,Government,Government
+29,BSc - Zoology,2,0,"University College, Palayam",Thiruvananthapuram,Government,Government
+30,BA - English & Communicative English,0,0,"Government K N M Arts & Science College, Kanjiramkulam",Thiruvananthapuram,Government,Government
+31,BA - Economics,0,0,"Government K N M Arts & Science College, Kanjiramkulam",Thiruvananthapuram,Government,Government
+32,BA - Sociology,0,0,"Government K N M Arts & Science College, Kanjiramkulam",Thiruvananthapuram,Government,Government
+33,BSc - Mathematics,1,1,"Government K N M Arts & Science College, Kanjiramkulam",Thiruvananthapuram,Government,Government
+34,BCom - Commerce & Tax Procedure and Practice,0,0,"Government K N M Arts & Science College, Kanjiramkulam",Thiruvananthapuram,Government,Government
+35,BSc - Physics (Mathematics Machine Learning),11,2,"Government K N M Arts & Science College, Kanjiramkulam",Thiruvananthapuram,Government,Government
+36,BA - English,2,1,"Malayankeezhu Madhavakavi Smaraka Govt. Arts and Science College, Malayankeezhu",Thiruvananthapuram,Government,Government
+37,BSc - Mathematics,9,2,"Malayankeezhu Madhavakavi Smaraka Govt. Arts and Science College, Malayankeezhu",Thiruvananthapuram,Government,Government
+38,BCom - Co-operation,0,0,"Malayankeezhu Madhavakavi Smaraka Govt. Arts and Science College, Malayankeezhu",Thiruvananthapuram,Government,Government
+39,BA - Economics,0,0,"Govt. College, Nedumangad",Thiruvananthapuram,Government,Government
+40,BA - History,0,0,"Govt. College, Nedumangad",Thiruvananthapuram,Government,Government
+41,BA - Malayalam,1,0,"Govt. College, Nedumangad",Thiruvananthapuram,Government,Government
+42,BSc - Mathematics,25,2,"Govt. College, Nedumangad",Thiruvananthapuram,Government,Government
+43,BSc - Physics and Computer Application,2,1,"Govt. College, Nedumangad",Thiruvananthapuram,Government,Government
+44,BCom - Finance,0,3,"Govt. College, Nedumangad",Thiruvananthapuram,Government,Government
+45,BA - English,0,0,"Govt. Arts & Science College, Kulathoor, Neyyattinkara",Thiruvananthapuram,Government,Government
+46,BSc - Bio Chemistry,6,2,"Govt. Arts & Science College, Kulathoor, Neyyattinkara",Thiruvananthapuram,Government,Government
+47,BSc - Geography,1,2,"Govt. Arts & Science College, Kulathoor, Neyyattinkara",Thiruvananthapuram,Government,Government
+48,BA - Economics,1,0,"Govt. College, Attingal",Thiruvananthapuram,Government,Government
+49,BA - History,0,0,"Govt. College, Attingal",Thiruvananthapuram,Government,Government
+50,BSc - Mathematics,11,2,"Govt. College, Attingal",Thiruvananthapuram,Government,Government
+51,BSc - Polymer Chemistry,5,2,"Govt. College, Attingal",Thiruvananthapuram,Government,Government
+52,BCom - Computer Application,0,0,"Govt. College, Attingal",Thiruvananthapuram,Government,Government
+53,BA - Sanskrit (Special Nyaya),2,1,"Govt. Sanskrit College, Palayam",Thiruvananthapuram,Government,Government
+54,BA - Sanskrit (Vyakarana),1,1,"Govt. Sanskrit College, Palayam",Thiruvananthapuram,Government,Government
+55,BA - Sanskrit(Jyothisha),0,1,"Govt. Sanskrit College, Palayam",Thiruvananthapuram,Government,Government
+56,BA - Sanskrit(Sahithya),0,1,"Govt. Sanskrit College, Palayam",Thiruvananthapuram,Government,Government
+57,BA - Sanskrit(Vedanda),0,1,"Govt. Sanskrit College, Palayam",Thiruvananthapuram,Government,Government
+58,BSc - Bio Chemistry,1,2,"Govt. College, Kariavattom",Thiruvananthapuram,Government,Government
+59,BSc - Biotechnology,0,1,"Govt. College, Kariavattom",Thiruvananthapuram,Government,Government
+60,BSc - Chemistry and Industrial Chemistry,0,1,"Govt. College, Kariavattom",Thiruvananthapuram,Government,Government
+61,BSc - Computer Science,0,1,"Govt. College, Kariavattom",Thiruvananthapuram,Government,Government
+62,BSc - Geography,0,1,"Govt. College, Kariavattom",Thiruvananthapuram,Government,Government
+63,BSc - Physics and Computer Application,1,1,"Govt. College, Kariavattom",Thiruvananthapuram,Government,Government
+64,BSc - Statistics,5,2,"Govt. College, Kariavattom",Thiruvananthapuram,Government,Government
+65,BA - Economics,0,0,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+66,BA - English,1,0,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+67,BA - Hindi,0,0,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+68,BA - History,1,0,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+69,BA - Malayalam,0,0,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+70,BA - Philosophy,0,0,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+71,BSc - Psychology,0,1,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+72,BSc - Botany,1,2,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+73,BSc - Chemistry,1,2,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+74,BSc - Home Science,0,0,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+75,BSc - Biochemistry and Industrial Microbiology,0,1,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+76,BSc - Mathematics,0,2,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+77,BSc - Physics,0,1,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+78,BSc - Statistics,5,2,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+79,BSc - Zoology,1,1,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+80,BA - Honours in English Language & Literature,0,2,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+81,BCom - Finance,1,1,"Govt. College For Women, Vazhuthacaud",Thiruvananthapuram,Government,Government
+82,BA - Economics,1,0,"Govt. Arts College, Thycadu",Thiruvananthapuram,Government,Government
+83,BSc - Botany and Biotechnology,0,1,"Govt. Arts College, Thycadu",Thiruvananthapuram,Government,Government
+84,BSc - Physics,0,1,"Govt. Arts College, Thycadu",Thiruvananthapuram,Government,Government
+85,BCom - Finance,0,0,"Govt. Arts College, Thycadu",Thiruvananthapuram,Government,Government
+86,BA - English,8,2,"Govt. Arts & Science College,Thazhava",Kollam,Government,Government
+87,BA - Malayalam,12,2,"Govt. Arts & Science College,Thazhava",Kollam,Government,Government
+88,BA - Sociology,6,0,"Govt. Arts & Science College,Thazhava",Kollam,Government,Government
+89,BCom - Finance,2,2,"Govt. Arts & Science College,Thazhava",Kollam,Government,Government
+90,BA - English & Communicative English,13,1,"S N College,Punalur",Kollam,Aided,Aided
+91,BA - Economics,1,1,"S N College,Punalur",Kollam,Aided,Aided
+92,BA - History,1,0,"S N College,Punalur",Kollam,Aided,Aided
+93,BSc - Chemistry,25,2,"S N College,Punalur",Kollam,Aided,Aided
+94,BSc - Mathematics,29,2,"S N College,Punalur",Kollam,Aided,Aided
+95,BSc - Physics,24,2,"S N College,Punalur",Kollam,Aided,Aided
+96,BSc - Zoology,8,1,"S N College,Punalur",Kollam,Aided,Aided
+97,BCom - Co-operation,0,1,"S N College,Punalur",Kollam,Aided,Aided
+98,BA - Economics,0,2,"S N College, Kollam",Kollam,Aided,Aided
+99,BA - English,0,0,"S N College, Kollam",Kollam,Aided,Aided
+100,BA - Hindi,0,2,"S N College, Kollam",Kollam,Aided,Aided
+101,BA - History,0,0,"S N College, Kollam",Kollam,Aided,Aided
+102,BA - Malayalam,0,0,"S N College, Kollam",Kollam,Aided,Aided
+103,BA - Philosophy,1,1,"S N College, Kollam",Kollam,Aided,Aided
+104,BA - Political Science,4,0,"S N College, Kollam",Kollam,Aided,Aided
+105,BA - Sanskrit(Vedanda),1,1,"S N College, Kollam",Kollam,Aided,Aided
+106,BA - Journalism and Mass Communication,0,0,"S N College, Kollam",Kollam,Aided,Aided
+107,BSc - Botany,2,2,"S N College, Kollam",Kollam,Aided,Aided
+108,BSc - Botany and Biotechnology,4,1,"S N College, Kollam",Kollam,Aided,Aided
+109,BSc - Chemistry,1,3,"S N College, Kollam",Kollam,Aided,Aided
+110,BSc - Mathematics,0,3,"S N College, Kollam",Kollam,Aided,Aided
+111,BSc - Physics,0,1,"S N College, Kollam",Kollam,Aided,Aided
+112,BSc - Physics and Computer Application,1,0,"S N College, Kollam",Kollam,Aided,Aided
+113,BSc - Zoology,4,1,"S N College, Kollam",Kollam,Aided,Aided
+114,BCom -,1,2,"S N College, Kollam",Kollam,Aided,Aided
+115,BA - English and Malayalam Literatures,2,3,"S N College, Kollam",Kollam,Aided,Aided
+116,BA - Economics,1,0,"Sree Narayana College, Cherthala",Alappuzha,Aided,Aided
+117,BA - History,0,0,"Sree Narayana College, Cherthala",Alappuzha,Aided,Aided
+118,BA - Malayalam,0,1,"Sree Narayana College, Cherthala",Alappuzha,Aided,Aided
+119,BA - Philosophy,1,2,"Sree Narayana College, Cherthala",Alappuzha,Aided,Aided
+120,BA - Political Science,0,0,"Sree Narayana College, Cherthala",Alappuzha,Aided,Aided
+121,BSc - Botany,9,1,"Sree Narayana College, Cherthala",Alappuzha,Aided,Aided
+122,BSc - Chemistry,15,2,"Sree Narayana College, Cherthala",Alappuzha,Aided,Aided
+123,BSc - Computer Science,3,2,"Sree Narayana College, Cherthala",Alappuzha,Aided,Aided
+124,BSc - Geology,2,1,"Sree Narayana College, Cherthala",Alappuzha,Aided,Aided
+125,BSc - Physics,8,2,"Sree Narayana College, Cherthala",Alappuzha,Aided,Aided
+126,BSc - Zoology,7,1,"Sree Narayana College, Cherthala",Alappuzha,Aided,Aided
+127,BCom - Computer Application,0,1,"Sree Narayana College, Cherthala",Alappuzha,Aided,Aided
+128,BA - History,0,0,"Sree Narayana College,Chathannur",Kollam,Aided,Aided
+129,BSc - Chemistry and Industrial Chemistry,26,1,"Sree Narayana College,Chathannur",Kollam,Aided,Aided
+130,BSc - Mathematics,33,2,"Sree Narayana College,Chathannur",Kollam,Aided,Aided
+131,BCom - Finance,0,1,"Sree Narayana College,Chathannur",Kollam,Aided,Aided
+132,BA - Economics,2,2,"S N College, Sivagiri",Thiruvananthapuram,Aided,Aided
+133,BA - History,1,0,"S N College, Sivagiri",Thiruvananthapuram,Aided,Aided
+134,BA - Malayalam,0,0,"S N College, Sivagiri",Thiruvananthapuram,Aided,Aided
+135,BSc - Botany,0,1,"S N College, Sivagiri",Thiruvananthapuram,Aided,Aided
+136,BSc - Chemistry,1,2,"S N College, Sivagiri",Thiruvananthapuram,Aided,Aided
+137,BSc - Geology,2,0,"S N College, Sivagiri",Thiruvananthapuram,Aided,Aided
+138,BSc - Mathematics,28,2,"S N College, Sivagiri",Thiruvananthapuram,Aided,Aided
+139,BSc - Physics,6,2,"S N College, Sivagiri",Thiruvananthapuram,Aided,Aided
+140,BSc - Zoology,1,2,"S N College, Sivagiri",Thiruvananthapuram,Aided,Aided
+141,BCom - Hotel Management and Catering,0,1,"S N College, Sivagiri",Thiruvananthapuram,Aided,Aided
+142,BCom - Finance,0,0,"S N College, Sivagiri",Thiruvananthapuram,Aided,Aided
+143,BA - Economics,18,2,"Ayyankali Memorial Arts and Science College,Punalur",Kollam,Aided,Aided
+144,BA - English,25,2,"Ayyankali Memorial Arts and Science College,Punalur",Kollam,Aided,Aided
+145,BSc - Mathematics,23,2,"Ayyankali Memorial Arts and Science College,Punalur",Kollam,Aided,Aided
+146,BCom - Co-operation,1,2,"Ayyankali Memorial Arts and Science College,Punalur",Kollam,Aided,Aided
+147,BCom - Accounts and Data Science,13,3,"Ayyankali Memorial Arts and Science College,Punalur",Kollam,Aided,Aided
+148,BA - Economics,0,1,"St Xaveirs College, Thumba",Thiruvananthapuram,Aided,Aided
+149,BA - History,2,0,"St Xaveirs College, Thumba",Thiruvananthapuram,Aided,Aided
+150,BA - Malayalam and Mass Communication,0,2,"St Xaveirs College, Thumba",Thiruvananthapuram,Aided,Aided
+151,BSc - Botany and Biotechnology,1,1,"St Xaveirs College, Thumba",Thiruvananthapuram,Aided,Aided
+152,BSc - Chemistry,5,2,"St Xaveirs College, Thumba",Thiruvananthapuram,Aided,Aided
+153,BSc - Mathematics,9,1,"St Xaveirs College, Thumba",Thiruvananthapuram,Aided,Aided
+154,BSc - Physics,9,2,"St Xaveirs College, Thumba",Thiruvananthapuram,Aided,Aided
+155,BCom - Finance,0,1,"St Xaveirs College, Thumba",Thiruvananthapuram,Aided,Aided
+156,BA - English and Media Studies,0,3,"St Xaveirs College, Thumba",Thiruvananthapuram,Aided,Aided
+157,BA - English,0,0,"T K M College Of Arts & Science,Kollam",Kollam,Aided,Aided
+158,BA - Islamic History,0,0,"T K M College Of Arts & Science,Kollam",Kollam,Aided,Aided
+159,BSc - Bio Chemistry,0,1,"T K M College Of Arts & Science,Kollam",Kollam,Aided,Aided
+160,BSc - Botany,2,2,"T K M College Of Arts & Science,Kollam",Kollam,Aided,Aided
+161,BSc - Chemistry,2,2,"T K M College Of Arts & Science,Kollam",Kollam,Aided,Aided
+162,BSc - Mathematics,14,1,"T K M College Of Arts & Science,Kollam",Kollam,Aided,Aided
+163,BSc - Physics,5,2,"T K M College Of Arts & Science,Kollam",Kollam,Aided,Aided
+164,BSc - Zoology,0,1,"T K M College Of Arts & Science,Kollam",Kollam,Aided,Aided
+165,BCom - Finance,0,1,"T K M College Of Arts & Science,Kollam",Kollam,Aided,Aided
+166,BCom - Computer Application,0,2,"T K M College Of Arts & Science,Kollam",Kollam,Aided,Aided
+167,BA - Economics and Mathematics,1,2,"T K M College Of Arts & Science,Kollam",Kollam,Aided,Aided
+168,BA - Economics,3,1,"T.K. Madhava Memorial College, Nangiarkulangara",Alappuzha,Aided,Aided
+169,BA - English,8,1,"T.K. Madhava Memorial College, Nangiarkulangara",Alappuzha,Aided,Aided
+170,BSc - Chemistry,26,2,"T.K. Madhava Memorial College, Nangiarkulangara",Alappuzha,Aided,Aided
+171,BSc - Chemistry and Industrial Chemistry,14,1,"T.K. Madhava Memorial College, Nangiarkulangara",Alappuzha,Aided,Aided
+172,BSc - Mathematics,20,2,"T.K. Madhava Memorial College, Nangiarkulangara",Alappuzha,Aided,Aided
+173,BSc - Physics,17,2,"T.K. Madhava Memorial College, Nangiarkulangara",Alappuzha,Aided,Aided
+174,BSc - Zoology,10,2,"T.K. Madhava Memorial College, Nangiarkulangara",Alappuzha,Aided,Aided
+175,BCom - Travel and Tourism,1,3,"T.K. Madhava Memorial College, Nangiarkulangara",Alappuzha,Aided,Aided
+176,BCom - Computer Application,1,2,"T.K. Madhava Memorial College, Nangiarkulangara",Alappuzha,Aided,Aided
+177,BA - Economics,1,0,"Bishop Jesudasan CSI Arts & Science College, Mulayara",Thiruvananthapuram,Aided,Aided
+178,BA - English,0,1,"Bishop Jesudasan CSI Arts & Science College, Mulayara",Thiruvananthapuram,Aided,Aided
+179,BCom - Commerce & Tax Procedure and Practice,0,2,"Bishop Jesudasan CSI Arts & Science College, Mulayara",Thiruvananthapuram,Aided,Aided
+180,BA - Economics,14,2,"St Michaels College, Cherthala",Alappuzha,Aided,Aided
+181,BA - English,6,2,"St Michaels College, Cherthala",Alappuzha,Aided,Aided
+182,BSc - Chemistry,20,2,"St Michaels College, Cherthala",Alappuzha,Aided,Aided
+183,BSc - Physics,19,1,"St Michaels College, Cherthala",Alappuzha,Aided,Aided
+184,BSc - Zoology,19,2,"St Michaels College, Cherthala",Alappuzha,Aided,Aided
+185,BCom - Finance,1,2,"St Michaels College, Cherthala",Alappuzha,Aided,Aided
+186,BVoc - Software Development,18,3,"St Michaels College, Cherthala",Alappuzha,Aided,Aided
+187,BVoc - Tourism & Hospitality Management,13,3,"St Michaels College, Cherthala",Alappuzha,Aided,Aided
+188,BBA - Logistics,13,3,"St Michaels College, Cherthala",Alappuzha,Aided,Aided
+189,BA - Economics,0,7,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+190,BA - English,5,0,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+191,BA - Hindi,9,2,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+192,BA - History,6,0,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+193,BA - Malayalam,2,0,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+194,BSc - Botany,6,2,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+195,BSc - Chemistry,12,2,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+196,BSc - Geography,3,1,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+197,BSc - Home Science,29,2,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+198,BSc - Biochemistry and Industrial Microbiology,13,1,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+199,BSc - Mathematics,29,3,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+200,BSc - Physics,21,2,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+201,BSc - Zoology,1,1,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+202,BCom - Finance,1,0,"Sree Narayana College for Women, Kollam",Kollam,Aided,Aided
+203,BA - Economics,42,2,"Sree Narayana College,Chengannur",Alappuzha,Aided,Aided
+204,BSc - Chemistry,40,2,"Sree Narayana College,Chengannur",Alappuzha,Aided,Aided
+205,BSc - Mathematics,41,2,"Sree Narayana College,Chengannur",Alappuzha,Aided,Aided
+206,BSc - Physics,33,1,"Sree Narayana College,Chengannur",Alappuzha,Aided,Aided
+207,BCom - Computer Application,18,1,"Sree Narayana College,Chengannur",Alappuzha,Aided,Aided
+208,BA - Islamic History,13,1,"Mannaniya College Of Arts And Science, Kallara, Pangode",Thiruvananthapuram,Aided,Aided
+209,BSc - Chemistry,14,1,"Mannaniya College Of Arts And Science, Kallara, Pangode",Thiruvananthapuram,Aided,Aided
+210,BCom - Commerce & Tourism and Travel Management,0,2,"Mannaniya College Of Arts And Science, Kallara, Pangode",Thiruvananthapuram,Aided,Aided
+211,BCom - Co-operation,0,2,"Mannaniya College Of Arts And Science, Kallara, Pangode",Thiruvananthapuram,Aided,Aided
+212,BA - Economics and Media Studies,13,3,"Mannaniya College Of Arts And Science, Kallara, Pangode",Thiruvananthapuram,Aided,Aided
+213,BA - English & Communicative English,23,2,"St Josephs College For Women, Alappuzha",Alappuzha,Aided,Aided
+214,BA - English,12,2,"St Josephs College For Women, Alappuzha",Alappuzha,Aided,Aided
+215,BA - History,7,2,"St Josephs College For Women, Alappuzha",Alappuzha,Aided,Aided
+216,BSc - Botany,14,1,"St Josephs College For Women, Alappuzha",Alappuzha,Aided,Aided
+217,BSc - Chemistry,20,1,"St Josephs College For Women, Alappuzha",Alappuzha,Aided,Aided
+218,BSc - Home Science,19,1,"St Josephs College For Women, Alappuzha",Alappuzha,Aided,Aided
+219,BSc - Mathematics,20,1,"St Josephs College For Women, Alappuzha",Alappuzha,Aided,Aided
+220,BSc - Physics,18,1,"St Josephs College For Women, Alappuzha",Alappuzha,Aided,Aided
+221,BSc - Zoology,17,1,"St Josephs College For Women, Alappuzha",Alappuzha,Aided,Aided
+222,BCom - Finance,1,2,"St Josephs College For Women, Alappuzha",Alappuzha,Aided,Aided
+223,BA - English & Communicative English,6,2,"Iqbal College, Peringamala",Thiruvananthapuram,Aided,Aided
+224,BA - History,0,1,"Iqbal College, Peringamala",Thiruvananthapuram,Aided,Aided
+225,BSc - Botany,8,1,"Iqbal College, Peringamala",Thiruvananthapuram,Aided,Aided
+226,BSc - Mathematics,25,2,"Iqbal College, Peringamala",Thiruvananthapuram,Aided,Aided
+227,BSc - Physics,11,1,"Iqbal College, Peringamala",Thiruvananthapuram,Aided,Aided
+228,BSc - Zoology,3,1,"Iqbal College, Peringamala",Thiruvananthapuram,Aided,Aided
+229,BCom - Finance,1,3,"Iqbal College, Peringamala",Thiruvananthapuram,Aided,Aided
+230,BA - Economics and Media Studies,16,3,"Iqbal College, Peringamala",Thiruvananthapuram,Aided,Aided
+231,BA - English & Communicative English,18,2,"All Saints' College,TVPM",Thiruvananthapuram,Aided,Aided
+232,BA - Economics,3,2,"All Saints' College,TVPM",Thiruvananthapuram,Aided,Aided
+233,BA - English,2,2,"All Saints' College,TVPM",Thiruvananthapuram,Aided,Aided
+234,BA - History,2,1,"All Saints' College,TVPM",Thiruvananthapuram,Aided,Aided
+235,BSc - Botany,1,2,"All Saints' College,TVPM",Thiruvananthapuram,Aided,Aided
+236,BSc - Chemistry,13,2,"All Saints' College,TVPM",Thiruvananthapuram,Aided,Aided
+237,BSc - Mathematics,26,2,"All Saints' College,TVPM",Thiruvananthapuram,Aided,Aided
+238,BSc - Physics,0,1,"All Saints' College,TVPM",Thiruvananthapuram,Aided,Aided
+239,BSc - Zoology,2,2,"All Saints' College,TVPM",Thiruvananthapuram,Aided,Aided
+240,BCom - Travel and Tourism,1,2,"All Saints' College,TVPM",Thiruvananthapuram,Aided,Aided
+241,BCom - Finance,1,1,"All Saints' College,TVPM",Thiruvananthapuram,Aided,Aided
+242,BA - Arabic,3,1,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+243,BA - English & Communicative English,6,3,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+244,BA - Economics,0,2,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+245,BA - English,1,2,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+246,BA - History,0,1,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+247,BA - Malayalam,2,2,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+248,BA - Political Science,0,3,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+249,BSc - Biotechnology,18,2,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+250,BSc - Botany,23,2,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+251,BSc - Chemistry,8,1,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+252,BSc - Mathematics,19,2,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+253,BSc - Physics,17,2,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+254,BSc - Statistics,14,2,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+255,BSc - Zoology,13,2,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+256,BCom - Finance,0,2,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+257,BCom - Co-operation,0,3,"M S M College, Kayamkulam",Alappuzha,Aided,Aided
+258,BA - Economics,0,2,"Sree Narayana College, Chempazhanthy",Thiruvananthapuram,Aided,Aided
+259,BA - English,2,2,"Sree Narayana College, Chempazhanthy",Thiruvananthapuram,Aided,Aided
+260,BA - History,0,0,"Sree Narayana College, Chempazhanthy",Thiruvananthapuram,Aided,Aided
+261,BA - Political Science,2,1,"Sree Narayana College, Chempazhanthy",Thiruvananthapuram,Aided,Aided
+262,BSc - Psychology,0,1,"Sree Narayana College, Chempazhanthy",Thiruvananthapuram,Aided,Aided
+263,BA - Sociology,0,1,"Sree Narayana College, Chempazhanthy",Thiruvananthapuram,Aided,Aided
+264,BSc - Botany,1,2,"Sree Narayana College, Chempazhanthy",Thiruvananthapuram,Aided,Aided
+265,BSc - Chemistry,1,2,"Sree Narayana College, Chempazhanthy",Thiruvananthapuram,Aided,Aided
+266,BSc - Geology,0,1,"Sree Narayana College, Chempazhanthy",Thiruvananthapuram,Aided,Aided
+267,BSc - Mathematics,9,2,"Sree Narayana College, Chempazhanthy",Thiruvananthapuram,Aided,Aided
+268,BSc - Physics,1,2,"Sree Narayana College, Chempazhanthy",Thiruvananthapuram,Aided,Aided
+269,BSc - Zoology,0,2,"Sree Narayana College, Chempazhanthy",Thiruvananthapuram,Aided,Aided
+270,BCom - Co-operation,1,2,"Sree Narayana College, Chempazhanthy",Thiruvananthapuram,Aided,Aided
+271,BA - Economics,0,0,"Christian College,Kattakada",Thiruvananthapuram,Aided,Aided
+272,BA - History,0,0,"Christian College,Kattakada",Thiruvananthapuram,Aided,Aided
+273,BSc - Botany,0,1,"Christian College,Kattakada",Thiruvananthapuram,Aided,Aided
+274,BSc - Chemistry,0,1,"Christian College,Kattakada",Thiruvananthapuram,Aided,Aided
+275,BSc - Mathematics,4,2,"Christian College,Kattakada",Thiruvananthapuram,Aided,Aided
+276,BSc - Physics,1,2,"Christian College,Kattakada",Thiruvananthapuram,Aided,Aided
+277,BSc - Statistics,10,2,"Christian College,Kattakada",Thiruvananthapuram,Aided,Aided
+278,BSc - Zoology,0,1,"Christian College,Kattakada",Thiruvananthapuram,Aided,Aided
+279,BCom - Computer Application,1,0,"Christian College,Kattakada",Thiruvananthapuram,Aided,Aided
+280,BA - English,2,1,"Santhom Malankara Arts & Science College,Edanji",Thiruvananthapuram,Aided,Aided
+281,BSc - Chemistry,4,2,"Santhom Malankara Arts & Science College,Edanji",Thiruvananthapuram,Aided,Aided
+282,BCom - Finance,2,2,"Santhom Malankara Arts & Science College,Edanji",Thiruvananthapuram,Aided,Aided
+283,BA - Economics,0,0,"V T M N S S College, Dhanuvachapuram",Thiruvananthapuram,Aided,Aided
+284,BA - English,0,0,"V T M N S S College, Dhanuvachapuram",Thiruvananthapuram,Aided,Aided
+285,BA - History,0,0,"V T M N S S College, Dhanuvachapuram",Thiruvananthapuram,Aided,Aided
+286,BA - Malayalam,1,0,"V T M N S S College, Dhanuvachapuram",Thiruvananthapuram,Aided,Aided
+287,BA - Political Science,0,0,"V T M N S S College, Dhanuvachapuram",Thiruvananthapuram,Aided,Aided
+288,BSc - Botany,1,2,"V T M N S S College, Dhanuvachapuram",Thiruvananthapuram,Aided,Aided
+289,BSc - Chemistry,1,2,"V T M N S S College, Dhanuvachapuram",Thiruvananthapuram,Aided,Aided
+290,BSc - Mathematics,4,2,"V T M N S S College, Dhanuvachapuram",Thiruvananthapuram,Aided,Aided
+291,BSc - Physics,0,2,"V T M N S S College, Dhanuvachapuram",Thiruvananthapuram,Aided,Aided
+292,BSc - Zoology,0,1,"V T M N S S College, Dhanuvachapuram",Thiruvananthapuram,Aided,Aided
+293,BCom - Co-operation,1,1,"V T M N S S College, Dhanuvachapuram",Thiruvananthapuram,Aided,Aided
+294,BA - Economics,1,2,"M M N S S College, Kottiyam",Kollam,Aided,Aided
+295,BA - English,1,2,"M M N S S College, Kottiyam",Kollam,Aided,Aided
+296,BSc - Chemistry,7,2,"M M N S S College, Kottiyam",Kollam,Aided,Aided
+297,BSc - Physics,9,2,"M M N S S College, Kottiyam",Kollam,Aided,Aided
+298,BSc - Zoology,6,1,"M M N S S College, Kottiyam",Kollam,Aided,Aided
+299,BCom - Computer Application,0,0,"M M N S S College, Kottiyam",Kollam,Aided,Aided
+300,BA - Economics,7,3,"Christian College, Chengannur",Alappuzha,Aided,Aided
+301,BA - English,12,2,"Christian College, Chengannur",Alappuzha,Aided,Aided
+302,BA - History,4,1,"Christian College, Chengannur",Alappuzha,Aided,Aided
+303,BSc - Botany,17,2,"Christian College, Chengannur",Alappuzha,Aided,Aided
+304,BSc - Chemistry,19,2,"Christian College, Chengannur",Alappuzha,Aided,Aided
+305,BSc - Mathematics,26,2,"Christian College, Chengannur",Alappuzha,Aided,Aided
+306,BSc - Physics,15,2,"Christian College, Chengannur",Alappuzha,Aided,Aided
+307,BSc - Zoology,12,2,"Christian College, Chengannur",Alappuzha,Aided,Aided
+308,BCom - Computer Application,1,0,"Christian College, Chengannur",Alappuzha,Aided,Aided
+309,BBA - Logistics,7,3,"Christian College, Chengannur",Alappuzha,Aided,Aided
+310,BA - English,0,2,"Sri Sathya Sai Arts and Science College,Sai Gramam,ThonnakkalSri Sathya Sai Arts and Science College,Sai Gramam,Thonnakkal",Thiruvananthapuram,Aided,Aided
+311,BSc - Physics,16,1,"Sri Sathya Sai Arts and Science College,Sai Gramam,ThonnakkalSri Sathya Sai Arts and Science College,Sai Gramam,Thonnakkal",Thiruvananthapuram,Aided,Aided
+312,BCom - Finance,0,1,"Sri Sathya Sai Arts and Science College,Sai Gramam,ThonnakkalSri Sathya Sai Arts and Science College,Sai Gramam,Thonnakkal",Thiruvananthapuram,Aided,Aided
+313,BA - Economics,1,2,"Sree Sankara College, Kilimanoor",Thiruvananthapuram,Aided,Aided
+314,BSc - Physics,8,2,"Sree Sankara College, Kilimanoor",Thiruvananthapuram,Aided,Aided
+315,BCom - Commerce & Tax Procedure and Practice,0,2,"Sree Sankara College, Kilimanoor",Thiruvananthapuram,Aided,Aided
+316,BA - Economics,8,3,"Bishop Moore College,Mavelikkara",Alappuzha,Aided,Aided
+317,BA - English,6,0,"Bishop Moore College,Mavelikkara",Alappuzha,Aided,Aided
+318,BA - Malayalam,4,0,"Bishop Moore College,Mavelikkara",Alappuzha,Aided,Aided
+319,BSc - Botany,10,2,"Bishop Moore College,Mavelikkara",Alappuzha,Aided,Aided
+320,BSc - Botany and Biotechnology,11,1,"Bishop Moore College,Mavelikkara",Alappuzha,Aided,Aided
+321,BSc - Chemistry,9,2,"Bishop Moore College,Mavelikkara",Alappuzha,Aided,Aided
+322,BSc - Mathematics,14,1,"Bishop Moore College,Mavelikkara",Alappuzha,Aided,Aided
+323,BSc - Physics,9,2,"Bishop Moore College,Mavelikkara",Alappuzha,Aided,Aided
+324,BSc - Zoology,9,2,"Bishop Moore College,Mavelikkara",Alappuzha,Aided,Aided
+325,BCom - Finance,0,3,"Bishop Moore College,Mavelikkara",Alappuzha,Aided,Aided
+326,BCom - Computer Application,0,0,"Bishop Moore College,Mavelikkara",Alappuzha,Aided,Aided
+327,BA - Economics,1,3,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+328,BA - English,0,1,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+329,BA - Hindi,0,1,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+330,BA - History,0,0,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+331,BA - Malayalam,1,0,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+332,BA - Political Science,2,0,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+333,BA - Sanskrit(Vedanda),2,3,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+334,BSc - Botany,0,2,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+335,BSc - Chemistry,1,1,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+336,BSc - Mathematics,5,2,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+337,BSc - Physics,0,2,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+338,BSc - Polymer Chemistry,4,1,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+339,BSc - Statistics,5,2,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+340,BSc - Zoology,1,2,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+341,BCom - Co-operation,0,1,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+342,BVoc - Software Development,1,1,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+343,BVoc - Food Processing & Management,0,2,"Kumbalathu Sankupilla Memorial Devaswom Board College, Sasthamcottah",Kollam,Aided,Aided
+344,BA - Economics,0,1,"M G College, TVPM",Thiruvananthapuram,Aided,Government
+345,BA - English,1,2,"M G College, TVPM",Thiruvananthapuram,Aided,Government
+346,BA - Hindi,2,1,"M G College, TVPM",Thiruvananthapuram,Aided,Government
+347,BA - History,0,0,"M G College, TVPM",Thiruvananthapuram,Aided,Government
+348,BA - Malayalam,0,0,"M G College, TVPM",Thiruvananthapuram,Aided,Government
+349,BSc - Psychology,1,0,"M G College, TVPM",Thiruvananthapuram,Aided,Aided
+350,BA - Sociology,0,0,"M G College, TVPM",Thiruvananthapuram,Aided,Aided
+351,BSc - Botany,0,2,"M G College, TVPM",Thiruvananthapuram,Aided,Government
+352,BSc - Chemistry,0,2,"M G College, TVPM",Thiruvananthapuram,Aided,Government
+353,BSc - Mathematics,4,2,"M G College, TVPM",Thiruvananthapuram,Aided,Government
+354,BSc - Physics,1,2,"M G College, TVPM",Thiruvananthapuram,Aided,Government
+355,BSc - Zoology,2,2,"M G College, TVPM",Thiruvananthapuram,Aided,Government
+356,BCom - Finance,2,1,"M G College, TVPM",Thiruvananthapuram,Aided,Government
+357,BSc - Computer Science,9,1,"Sree Ayyappa College, Eramallikkara (PO), Thiruvanvandoor, Chengannur",Alappuzha,Aided,Aided
+358,BSc - Electronics,26,1,"Sree Ayyappa College, Eramallikkara (PO), Thiruvanvandoor, Chengannur",Alappuzha,Aided,Aided
+359,BSc - Biochemistry and Industrial Microbiology,16,1,"Sree Ayyappa College, Eramallikkara (PO), Thiruvanvandoor, Chengannur",Alappuzha,Aided,Aided
+360,BSc - Mathematics,25,1,"Sree Ayyappa College, Eramallikkara (PO), Thiruvanvandoor, Chengannur",Alappuzha,Aided,Aided
+361,BCom - Commerce with Computer Application,22,2,"Sree Ayyappa College, Eramallikkara (PO), Thiruvanvandoor, Chengannur",Alappuzha,Aided,Aided
+362,BA - English and Media Studies,28,3,"Sree Ayyappa College, Eramallikkara (PO), Thiruvanvandoor, Chengannur",Alappuzha,Aided,Aided
+363,BA - Economics,9,4,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+364,BA - English,3,2,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+365,BA - Hindi,18,2,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+366,BA - History,1,2,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+367,BA - Malayalam,6,2,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+368,BA - Political Science,3,3,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+369,BA - Sanskrit,24,2,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+370,BSc - Bio Chemistry,13,2,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+371,BSc - Botany,6,2,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+372,BSc - Chemistry,18,2,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+373,BSc - Geography,12,2,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+374,BSc - Mathematics,28,2,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+375,BSc - Physics,19,2,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+376,BSc - Zoology,8,2,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+377,BCom - Commerce & Tax Procedure and Practice,1,1,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+378,BCom - Finance,0,3,"N S S College, Pandalam",Pathanamthitta,Aided,Aided
+379,BA - Economics,2,0,"N S S College, Nilamel",Kollam,Aided,Aided
+380,BA - English,0,2,"N S S College, Nilamel",Kollam,Aided,Aided
+381,BA - History,1,0,"N S S College, Nilamel",Kollam,Aided,Aided
+382,BA - Malayalam,1,1,"N S S College, Nilamel",Kollam,Aided,Aided
+383,BSc - Bio Chemistry,5,1,"N S S College, Nilamel",Kollam,Aided,Aided
+384,BSc - Botany,0,1,"N S S College, Nilamel",Kollam,Aided,Aided
+385,BSc - Chemistry,8,2,"N S S College, Nilamel",Kollam,Aided,Aided
+386,BSc - Mathematics,13,2,"N S S College, Nilamel",Kollam,Aided,Aided
+387,BSc - Physics,6,1,"N S S College, Nilamel",Kollam,Aided,Aided
+388,BSc - Zoology,5,1,"N S S College, Nilamel",Kollam,Aided,Aided
+389,BCom - Finance,0,1,"N S S College, Nilamel",Kollam,Aided,Aided
+390,BA - English & Communicative English,0,2,"S D College, Alappuzha",Alappuzha,Private,Aided
+391,BA - Economics,0,1,"S D College, Alappuzha",Alappuzha,Private,Aided
+392,BA - English,3,1,"S D College, Alappuzha",Alappuzha,Private,Aided
+393,BA - Hindi,5,2,"S D College, Alappuzha",Alappuzha,Private,Aided
+394,BA - History,0,0,"S D College, Alappuzha",Alappuzha,Private,Aided
+395,BA - Malayalam,0,1,"S D College, Alappuzha",Alappuzha,Private,Aided
+396,BSc - Botany,2,2,"S D College, Alappuzha",Alappuzha,Private,Aided
+397,BSc - Chemistry,4,2,"S D College, Alappuzha",Alappuzha,Private,Aided
+398,BSc - Mathematics,8,3,"S D College, Alappuzha",Alappuzha,Private,Aided
+399,BSc - Physics,9,2,"S D College, Alappuzha",Alappuzha,Private,Aided
+400,BSc - Zoology,0,2,"S D College, Alappuzha",Alappuzha,Private,Aided
+401,BCom - Finance,1,2,"S D College, Alappuzha",Alappuzha,Private,Aided
+402,BSc - Microbiology,0,1,"S D College, Alappuzha",Alappuzha,Private,Aided
+403,BA - English & Communicative English,2,1,"St. Gregorios College, Kottarakara",Kollam,Aided,Aided
+404,BA - Political Science,0,0,"St. Gregorios College, Kottarakara",Kollam,Aided,Aided
+405,BSc - Botany,3,1,"St. Gregorios College, Kottarakara",Kollam,Aided,Aided
+406,BSc - Chemistry,12,2,"St. Gregorios College, Kottarakara",Kollam,Aided,Aided
+407,BSc - Mathematics,3,2,"St. Gregorios College, Kottarakara",Kollam,Aided,Aided
+408,BSc - Physics,1,2,"St. Gregorios College, Kottarakara",Kollam,Aided,Aided
+409,BSc - Zoology,7,2,"St. Gregorios College, Kottarakara",Kollam,Aided,Aided
+410,BCom - Co-operation,0,0,"St. Gregorios College, Kottarakara",Kollam,Aided,Aided
+411,BCom - Computer Application,0,0,"St. Gregorios College, Kottarakara",Kollam,Aided,Aided
+412,BA - Economics,5,2,"St Cyrils College, Adoor",Pathanamthitta,Aided,Aided
+413,BA - English,8,2,"St Cyrils College, Adoor",Pathanamthitta,Aided,Aided
+414,BA - History,1,2,"St Cyrils College, Adoor",Pathanamthitta,Aided,Aided
+415,BSc - Chemistry,18,1,"St Cyrils College, Adoor",Pathanamthitta,Aided,Aided
+416,BCom - Computer Application,1,1,"St Cyrils College, Adoor",Pathanamthitta,Aided,Aided
+417,BSc - Mathematics & Computer Application,17,2,"St Cyrils College, Adoor",Pathanamthitta,Aided,Aided
+418,BA - English & Communicative English,7,2,"St Johns College, Anchal",Kollam,Aided,Aided
+419,BA - Economics,4,2,"St Johns College, Anchal",Kollam,Aided,Aided
+420,BA - Malayalam,3,0,"St Johns College, Anchal",Kollam,Aided,Aided
+421,BA - Political Science,4,2,"St Johns College, Anchal",Kollam,Aided,Aided
+422,BSc - Botany,3,2,"St Johns College, Anchal",Kollam,Aided,Aided
+423,BSc - Chemistry,12,2,"St Johns College, Anchal",Kollam,Aided,Aided
+424,BSc - Mathematics,15,2,"St Johns College, Anchal",Kollam,Aided,Aided
+425,BSc - Physics,10,1,"St Johns College, Anchal",Kollam,Aided,Aided
+426,BSc - Zoology,4,2,"St Johns College, Anchal",Kollam,Aided,Aided
+427,BCom -,2,2,"St Johns College, Anchal",Kollam,Aided,Aided
+428,BCom - Accounts and Data Science,1,3,"St Johns College, Anchal",Kollam,Aided,Aided
+429,BA - Economics,0,1,"H.H.M.S.P.B. N.S.S. College for Women, Neeramankara",Thiruvananthapuram,Aided,Aided
+430,BA - English,0,0,"H.H.M.S.P.B. N.S.S. College for Women, Neeramankara",Thiruvananthapuram,Aided,Aided
+431,BA - Hindi,8,2,"H.H.M.S.P.B. N.S.S. College for Women, Neeramankara",Thiruvananthapuram,Aided,Aided
+432,BA - History,1,0,"H.H.M.S.P.B. N.S.S. College for Women, Neeramankara",Thiruvananthapuram,Aided,Aided
+433,BA - Malayalam,0,0,"H.H.M.S.P.B. N.S.S. College for Women, Neeramankara",Thiruvananthapuram,Aided,Aided
+434,BA - Philosophy,1,2,"H.H.M.S.P.B. N.S.S. College for Women, Neeramankara",Thiruvananthapuram,Aided,Aided
+435,BSc - Botany,3,2,"H.H.M.S.P.B. N.S.S. College for Women, Neeramankara",Thiruvananthapuram,Aided,Aided
+436,BSc - Chemistry,1,1,"H.H.M.S.P.B. N.S.S. College for Women, Neeramankara",Thiruvananthapuram,Aided,Aided
+437,BSc - Home Science,4,0,"H.H.M.S.P.B. N.S.S. College for Women, Neeramankara",Thiruvananthapuram,Aided,Aided
+438,BSc - Mathematics,20,2,"H.H.M.S.P.B. N.S.S. College for Women, Neeramankara",Thiruvananthapuram,Aided,Aided
+439,BSc - Physics,3,1,"H.H.M.S.P.B. N.S.S. College for Women, Neeramankara",Thiruvananthapuram,Aided,Aided
+440,BSc - Zoology,1,2,"H.H.M.S.P.B. N.S.S. College for Women, Neeramankara",Thiruvananthapuram,Aided,Aided
+441,BCom - Finance,0,2,"H.H.M.S.P.B. N.S.S. College for Women, Neeramankara",Thiruvananthapuram,Aided,Aided
+442,BA - Economics,8,3,"St Stephens College, Pathanapuram",Kollam,Aided,Aided
+443,BA - English,10,2,"St Stephens College, Pathanapuram",Kollam,Aided,Aided
+444,BSc - Botany,12,2,"St Stephens College, Pathanapuram",Kollam,Aided,Aided
+445,BSc - Chemistry,19,2,"St Stephens College, Pathanapuram",Kollam,Aided,Aided
+446,BSc - Mathematics,30,2,"St Stephens College, Pathanapuram",Kollam,Aided,Aided
+447,BSc - Physics,16,2,"St Stephens College, Pathanapuram",Kollam,Aided,Aided
+448,BSc - Zoology,4,2,"St Stephens College, Pathanapuram",Kollam,Aided,Aided
+449,BCom - Finance,0,2,"St Stephens College, Pathanapuram",Kollam,Aided,Aided
+450,BA - Economics,3,3,"N S S College, Cherthala",Alappuzha,Aided,Aided
+451,BA - English,3,2,"N S S College, Cherthala",Alappuzha,Aided,Aided
+452,BA - History,3,3,"N S S College, Cherthala",Alappuzha,Aided,Aided
+453,BA - Malayalam,4,0,"N S S College, Cherthala",Alappuzha,Aided,Aided
+454,BSc - Botany,11,2,"N S S College, Cherthala",Alappuzha,Aided,Aided
+455,BSc - Chemistry,12,2,"N S S College, Cherthala",Alappuzha,Aided,Aided
+456,BSc - Environmental Science and Water Management,9,1,"N S S College, Cherthala",Alappuzha,Aided,Aided
+457,BSc - Mathematics,30,2,"N S S College, Cherthala",Alappuzha,Aided,Aided
+458,BSc - Physics,19,2,"N S S College, Cherthala",Alappuzha,Aided,Aided
+459,BSc - Zoology,15,2,"N S S College, Cherthala",Alappuzha,Aided,Aided
+460,BCom - Finance,0,2,"N S S College, Cherthala",Alappuzha,Aided,Aided
+461,BSc - Computer Science,21,2,"University Institute of Technology,Pirappancode",Thiruvananthapuram,Private,University Governed - Self Financing
+462,BCom - Commerce with Computer Application,8,3,"University Institute of Technology,Pirappancode",Thiruvananthapuram,Private,University Governed - Self Financing
+463,BBA - Business Administration,19,2,"University Institute of Technology,Pirappancode",Thiruvananthapuram,Private,University Governed - Self Financing
+464,BSc - Computer Science,48,2,"University Institute of Technology,Pathanapuram",Kollam,Private,University Governed - Self Financing
+465,BCom - Commerce with Computer Application,41,3,"University Institute of Technology,Pathanapuram",Kollam,Private,University Governed - Self Financing
+466,BBA - Business Administration,49,2,"University Institute of Technology,Pathanapuram",Kollam,Private,University Governed - Self Financing
+467,BSc - Computer Science,7,2,"University Institute of Technology,Adoor",Pathanamthitta,Private,University Governed - Self Financing
+468,BBA - Business Administration,18,3,"University Institute of Technology,Adoor",Pathanamthitta,Private,University Governed - Self Financing
+469,BSc - Computer Science,7,2,"University Institute of Technology,Mulamkadakam",Kollam,Private,University Governed - Self Financing
+470,BCom - Commerce with Computer Application,3,2,"University Institute of Technology,Mulamkadakam",Kollam,Private,University Governed - Self Financing
+471,BBA - Business Administration,2,3,"University Institute of Technology,Mulamkadakam",Kollam,Private,University Governed - Self Financing
+472,BCom - Commerce & Tax Procedure and Practice,45,2,"University Institute of Technology,Kattayikonam",Thiruvananthapuram,Private,University Governed - Self Financing
+473,BCom - Commerce & Tourism and Travel Management,52,2,"University Institute of Technology,Kattayikonam",Thiruvananthapuram,Private,University Governed - Self Financing
+474,BA - English & Communicative English,34,2,"University Institute of Technology-Regional Centre, Pallickal,Kilimanoor",Thiruvananthapuram,Private,University Governed - Self Financing
+475,BCom - Commerce & Tax Procedure and Practice,31,2,"University Institute of Technology-Regional Centre, Pallickal,Kilimanoor",Thiruvananthapuram,Private,University Governed - Self Financing
+476,BCom - Commerce & Tax Procedure and Practice,54,2,"University Institute of Technology,Chengannur",Alappuzha,Private,University Governed - Self Financing
+477,BBA - Business Administration,49,2,"University Institute of Technology,Chengannur",Alappuzha,Private,University Governed - Self Financing
+478,BCom - Commerce & Tax Procedure and Practice,28,2,"University Institute of Technology,Bharanickavu,Kayamkulam",Alappuzha,Private,University Governed - Self Financing
+479,BBA - Business Administration,39,2,"University Institute of Technology,Bharanickavu,Kayamkulam",Alappuzha,Private,University Governed - Self Financing
+480,BCom - Commerce & Tax Procedure and Practice,42,2,"University Institute of Technology,Aroor",Alappuzha,Private,University Governed - Self Financing
+481,BCom - Co-operation,41,2,"University Institute of Technology,Aroor",Alappuzha,Private,University Governed - Self Financing
+482,BA - English,59,2,"University Institute of Technology,Paravur(Chathanur)",Kollam,Private,University Governed - Self Financing
+483,BCom - Commerce with Computer Application,59,2,"University Institute of Technology,Paravur(Chathanur)",Kollam,Private,University Governed - Self Financing
+484,BBA - Business Administration,44,2,"University Institute of Technology,Paravur(Chathanur)",Kollam,Private,University Governed - Self Financing
+485,BSc - Computer Science,3,2,"University Institute of Technology,Kuravankonam",Thiruvananthapuram,Private,University Governed - Self Financing
+486,BSc - Electronics,34,2,"University Institute of Technology,Kuravankonam",Thiruvananthapuram,Private,University Governed - Self Financing
+487,BSc - Computer Science,22,2,"University Institute of Technology,Neyyattinkara",Thiruvananthapuram,Private,University Governed - Self Financing
+488,BBA - Business Administration,26,3,"University Institute of Technology,Neyyattinkara",Thiruvananthapuram,Private,University Governed - Self Financing
+489,BSc - Computer Science,40,1,"University Institute of Technology,Muthukulam, Haripad",Alappuzha,Private,University Governed - Self Financing
+490,BCom - Commerce with Computer Application,51,2,"University Institute of Technology,Muthukulam, Haripad",Alappuzha,Private,University Governed - Self Financing
+491,BSc - Computer Science,8,2,"University Institute of Technology,Alappuzha",Alappuzha,Private,University Governed - Self Financing
+492,BCom - Commerce with Computer Application,7,2,"University Institute of Technology,Alappuzha",Alappuzha,Private,University Governed - Self Financing
+493,BBA - Business Administration,15,3,"University Institute of Technology,Alappuzha",Alappuzha,Private,University Governed - Self Financing
+494,BCom - Co-operation,6,2,"University Institute of Technology,Alappuzha",Alappuzha,Private,University Governed - Self Financing
+495,BSc - Computer Science,37,2,"University Institute of Technology,Yeroor, Anchal",Kollam,Private,University Governed - Self Financing
+496,BCom - Commerce with Computer Application,27,2,"University Institute of Technology,Yeroor, Anchal",Kollam,Private,University Governed - Self Financing
+497,BBA - Business Administration,30,1,"University Institute of Technology,Charamangalam",Alappuzha,Private,University Governed - Self Financing
+498,BCom - Co-operation,36,2,"University Institute of Technology,Charamangalam",Alappuzha,Private,University Governed - Self Financing
+499,BA - English,30,1,"University Institute of Technology,Pathiyoor",Alappuzha,Private,University Governed - Self Financing
+500,BCom - Commerce with Computer Application,25,2,"University Institute of Technology,Pathiyoor",Alappuzha,Private,University Governed - Self Financing
+501,BCom - Commerce with Computer Application,17,2,"University Institute of Technology,Malayinkeezh, Kattakkada",Thiruvananthapuram,Private,University Governed - Self Financing
+502,BCA - Computer Applications,9,2,"University Institute of Technology,Malayinkeezh, Kattakkada",Thiruvananthapuram,Private,University Governed - Self Financing
+503,BSc - Computer Science,55,1,"University Institute of Technology,Tholicode",Thiruvananthapuram,Private,University Governed - Self Financing
+504,BCom - Commerce with Computer Application,54,2,"University Institute of Technology,Tholicode",Thiruvananthapuram,Private,University Governed - Self Financing
+505,BCom - Commerce with Computer Application,49,2,"University Institute of Technology,Veli,Sambhuvattom,Kochuveli",Thiruvananthapuram,Private,University Governed - Self Financing
+506,BBA - Business Administration,55,1,"University Institute of Technology,Veli,Sambhuvattom,Kochuveli",Thiruvananthapuram,Private,University Governed - Self Financing
+507,BCom - Commerce with Computer Application,57,2,"University Institute of Technology,Kanjiramkulam, Panchayath Marketing Complex (Kanjiramkulam Jn.)",Thiruvananthapuram,Private,University Governed - Self Financing
+508,BCA - Computer Applications,59,1,"University Institute of Technology,Kanjiramkulam, Panchayath Marketing Complex (Kanjiramkulam Jn.)",Thiruvananthapuram,Private,University Governed - Self Financing
+509,BSc - Computer Science,28,2,"University Institute of Technology,Ittiva,Charuparambu,Chadayamangalam",Kollam,Private,University Governed - Self Financing
+510,BCom - Commerce with Computer Application,28,2,"University Institute of Technology,Ittiva,Charuparambu,Chadayamangalam",Kollam,Private,University Governed - Self Financing
+511,BSc - Computer Science,40,2,"University Institute of Technology,Azhoor,Chirayinkeezh",Thiruvananthapuram,Private,University Governed - Self Financing
+512,BCom - Commerce with Computer Application,28,1,"University Institute of Technology,Azhoor,Chirayinkeezh",Thiruvananthapuram,Private,University Governed - Self Financing
+513,BA - English,47,1,"University Institute of Technology,Kallara,Vamanapuram",Thiruvananthapuram,Private,University Governed - Self Financing
+514,BCom - Co-operation,46,2,"University Institute of Technology,Kallara,Vamanapuram",Thiruvananthapuram,Private,University Governed - Self Financing
+515,BA - English,43,2,"University Institute of Technology,Vellarada",Thiruvananthapuram,Private,University Governed - Self Financing
+516,BSc - Computer Science,52,2,"University Institute of Technology,Vellarada",Thiruvananthapuram,Private,University Governed - Self Financing
+517,BCom - Commerce with Computer Application,44,3,"University Institute of Technology,Vellarada",Thiruvananthapuram,Private,University Governed - Self Financing
+518,BCom - Commerce with Computer Application,27,2,"University Institute of Technology,Vakkom,Attingal",Thiruvananthapuram,Private,University Governed - Self Financing
+519,BCA - Computer Applications,37,2,"University Institute of Technology,Vakkom,Attingal",Thiruvananthapuram,Private,University Governed - Self Financing
+520,BCom - Commerce with Computer Application,47,2,"University Institute of Technology,Mannady",Pathanamthitta,Private,University Governed - Self Financing
+521,BCA - Computer Applications,33,2,"University Institute of Technology,Mannady",Pathanamthitta,Private,University Governed - Self Financing
+522,BCom - Commerce with Computer Application,37,2,"University Institute of Technology,Mannar",Alappuzha,Private,University Governed - Self Financing
+523,BBA - Business Administration,39,3,"University Institute of Technology,Mannar",Alappuzha,Private,University Governed - Self Financing
+524,BCom - Commerce with Computer Application,18,2,"University Institute of Technology,Mukhathala",Kollam,Private,University Governed - Self Financing
+525,BCA - Computer Applications,21,2,"University Institute of Technology,Mukhathala",Kollam,Private,University Governed - Self Financing
+526,BCom - Commerce with Computer Application,30,2,"University Institute of Technology,Thenmala",Kollam,Private,University Governed - Self Financing
+527,BBA - Business Administration,37,2,"University Institute of Technology,Thenmala",Kollam,Private,University Governed - Self Financing
+528,BCom - Commerce with Computer Application,44,2,"University Institute of Technology,Sasthamkotta",Kollam,Private,University Governed - Self Financing
+529,BBA - Business Administration,46,2,"University Institute of Technology,Sasthamkotta",Kollam,Private,University Governed - Self Financing
+530,BCom - Commerce with Computer Application,42,2,"University Institute of Technology,Kottarakkara",Kollam,Private,University Governed - Self Financing
+531,BCA - Computer Applications,10,2,"University Institute of Technology,Kottarakkara",Kollam,Private,University Governed - Self Financing
+532,BBA - Business Administration,33,3,"University Institute of Technology,Kottarakkara",Kollam,Private,University Governed - Self Financing
+533,BA - Malayalam and Mass Communication,35,2,"University Institute of Technology,Mannancheri",Alappuzha,Private,University Governed - Self Financing
+534,BCom - Commerce & Tourism and Travel Management,21,2,"University Institute of Technology,Mannancheri",Alappuzha,Private,University Governed - Self Financing
+535,BSc - Computer Science,40,2,"University Institute of Technology,Karuvatta",Alappuzha,Private,University Governed - Self Financing
+536,BCom - Commerce & Tax Procedure and Practice,45,2,"University Institute of Technology,Karuvatta",Alappuzha,Private,University Governed - Self Financing
+537,BCom - Commerce with Computer Application,36,2,"University Institute of Technology,Karuvatta",Alappuzha,Private,University Governed - Self Financing
+538,BCA - Computer Applications,28,2,"University Institute of Technology,Karuvatta",Alappuzha,Private,University Governed - Self Financing
+539,BSc - Computer Science,12,0,"College of Applied Science(IHRD Centre), Kundara",Kollam,Government Self Financing,Government Governed - Self Financing
+540,BSc - Electronics,25,0,"College of Applied Science(IHRD Centre), Kundara",Kollam,Government Self Financing,Government Governed - Self Financing
+541,BCom - Commerce & Tax Procedure and Practice,19,0,"College of Applied Science(IHRD Centre), Kundara",Kollam,Government Self Financing,Government Governed - Self Financing
+542,BCom - Commerce with Computer Application,20,0,"College of Applied Science(IHRD Centre), Kundara",Kollam,Government Self Financing,Government Governed - Self Financing
+543,BCom - Co-operation,8,0,"College of Applied Science(IHRD Centre), Kundara",Kollam,Government Self Financing,Government Governed - Self Financing
+544,BSc - Computer Science,8,0,"College of Applied Science(IHRD Centre), Mavelikkara",Alappuzha,Government Self Financing,Government Governed - Self Financing
+545,BSc - Electronics,9,0,"College of Applied Science(IHRD Centre), Mavelikkara",Alappuzha,Government Self Financing,Government Governed - Self Financing
+546,BSc - Physics and Computer Application,20,0,"College of Applied Science(IHRD Centre), Mavelikkara",Alappuzha,Government Self Financing,Government Governed - Self Financing
+547,BCom - Commerce & Tax Procedure and Practice,13,0,"College of Applied Science(IHRD Centre), Mavelikkara",Alappuzha,Government Self Financing,Government Governed - Self Financing
+548,BCom - Commerce with Computer Application,11,0,"College of Applied Science(IHRD Centre), Mavelikkara",Alappuzha,Government Self Financing,Government Governed - Self Financing
+549,BCA - Computer Applications,7,0,"College of Applied Science(IHRD Centre), Mavelikkara",Alappuzha,Government Self Financing,Government Governed - Self Financing
+550,BBA - Business Administration,8,0,"College of Applied Science(IHRD Centre), Mavelikkara",Alappuzha,Government Self Financing,Government Governed - Self Financing
+551,BCom - Finance,12,0,"College of Applied Science(IHRD Centre), Mavelikkara",Alappuzha,Government Self Financing,Government Governed - Self Financing
+552,BSc - Computer Science,15,0,"College of Applied Science(IHRD Centre), Dhanuvachapuram",Thiruvananthapuram,Self Financing,Government Governed - Self Financing
+553,BSc - Electronics,20,0,"College of Applied Science(IHRD Centre), Dhanuvachapuram",Thiruvananthapuram,Self Financing,Government Governed - Self Financing
+554,BCom - Commerce with Computer Application,11,0,"College of Applied Science(IHRD Centre), Dhanuvachapuram",Thiruvananthapuram,Self Financing,Government Governed - Self Financing
+555,BA - English,21,0,"College of Applied Science(IHRD Centre),Perissery,Chengannur",Alappuzha,Government Self Financing,Government Governed - Self Financing
+556,BSc - Computer Science,12,0,"College of Applied Science(IHRD Centre),Perissery,Chengannur",Alappuzha,Government Self Financing,Government Governed - Self Financing
+557,BCA - Computer Applications,4,0,"College of Applied Science(IHRD Centre),Perissery,Chengannur",Alappuzha,Government Self Financing,Government Governed - Self Financing
+558,BCom - Computer Application,8,0,"College of Applied Science(IHRD Centre),Perissery,Chengannur",Alappuzha,Government Self Financing,Government Governed - Self Financing
+559,BSc - Computer Science,8,0,"College of Applied Science(IHRD Centre),Kalanjoor",Pathanamthitta,Government Self Financing,Government Governed - Self Financing
+560,BCom - Commerce & Tax Procedure and Practice,13,0,"College of Applied Science(IHRD Centre),Kalanjoor",Pathanamthitta,Government Self Financing,Government Governed - Self Financing
+561,BCom - Commerce with Computer Application,14,0,"College of Applied Science(IHRD Centre),Kalanjoor",Pathanamthitta,Government Self Financing,Government Governed - Self Financing
+562,BBA - Business Administration,12,0,"College of Applied Science(IHRD Centre),Kalanjoor",Pathanamthitta,Government Self Financing,Government Governed - Self Financing
+563,BA - English & Communicative English,16,0,"College of Applied Science(IHRD Centre), Adoor",Pathanamthitta,Government Self Financing,Government Governed - Self Financing
+564,BSc - Computer Science,8,0,"College of Applied Science(IHRD Centre), Adoor",Pathanamthitta,Government Self Financing,Government Governed - Self Financing
+565,BSc - Electronics,23,0,"College of Applied Science(IHRD Centre), Adoor",Pathanamthitta,Government Self Financing,Government Governed - Self Financing
+566,BSc - Physics and Computer Application,18,0,"College of Applied Science(IHRD Centre), Adoor",Pathanamthitta,Government Self Financing,Government Governed - Self Financing
+567,BCom - Commerce with Computer Application,7,0,"College of Applied Science(IHRD Centre), Adoor",Pathanamthitta,Government Self Financing,Government Governed - Self Financing
+568,BCA - Computer Applications,1,0,"College of Applied Science(IHRD Centre), Adoor",Pathanamthitta,Government Self Financing,Government Governed - Self Financing
+569,BBA - Business Administration,6,0,"College of Applied Science(IHRD Centre), Adoor",Pathanamthitta,Government Self Financing,Government Governed - Self Financing
+570,BSc - Mathematics & Computer Application,16,2,"College of Applied Science(IHRD Centre), Adoor",Pathanamthitta,Government Self Financing,Government Governed - Self Financing
+571,BSc - Computer Science,21,0,"College of Applied Science(IHRD Centre),Karthikappally",Alappuzha,Government Self Financing,Government Governed - Self Financing
+572,BCom - Commerce with Computer Application,27,0,"College of Applied Science(IHRD Centre),Karthikappally",Alappuzha,Government Self Financing,Government Governed - Self Financing
+573,BCA - Computer Applications,11,0,"College of Applied Science(IHRD Centre),Karthikappally",Alappuzha,Government Self Financing,Government Governed - Self Financing
+574,BBA - Business Administration,12,0,"College of Applied Science(IHRD Centre),Karthikappally",Alappuzha,Government Self Financing,Government Governed - Self Financing
+575,BCom - Finance,15,0,"College of Applied Science(IHRD Centre),Karthikappally",Alappuzha,Government Self Financing,Government Governed - Self Financing
+576,BA - English,30,0,"Michaels Institute of Management and Technology,Cherthala",Alappuzha,Self Financing,Self Financing
+577,BCom - Travel and Tourism,25,0,"Michaels Institute of Management and Technology,Cherthala",Alappuzha,Self Financing,Self Financing
+578,BCA - Computer Applications,6,0,"Michaels Institute of Management and Technology,Cherthala",Alappuzha,Self Financing,Self Financing
+579,BCom - Finance,24,0,"Michaels Institute of Management and Technology,Cherthala",Alappuzha,Self Financing,Self Financing
+580,BA - English,10,0,"MGM College of Arts & Science,Kadinamkulam,Kaniyapuram",Thiruvananthapuram,Self Financing,Self Financing
+581,BA - Journalism and Mass Communication,10,0,"MGM College of Arts & Science,Kadinamkulam,Kaniyapuram",Thiruvananthapuram,Self Financing,Self Financing
+582,BSc - Physics,15,0,"MGM College of Arts & Science,Kadinamkulam,Kaniyapuram",Thiruvananthapuram,Self Financing,Self Financing
+583,BCom - Commerce with Computer Application,1,0,"MGM College of Arts & Science,Kadinamkulam,Kaniyapuram",Thiruvananthapuram,Self Financing,Self Financing
+584,BBA - Business Administration,4,0,"MGM College of Arts & Science,Kadinamkulam,Kaniyapuram",Thiruvananthapuram,Self Financing,Self Financing
+585,BCom - Co-operation,9,0,"MGM College of Arts & Science,Kadinamkulam,Kaniyapuram",Thiruvananthapuram,Self Financing,Self Financing
+586,BA - English,18,0,Lourdes Matha College of Arts & Science,Thiruvananthapuram,Private,Self Financing
+587,BCom - Commerce & Tax Procedure and Practice,16,0,Lourdes Matha College of Arts & Science,Thiruvananthapuram,Private,Self Financing
+588,BSc - Botany and Biotechnology,13,0,"KVM College of Arts and Science, Kokkothamangalam,Cherthala",Alappuzha,Self Financing,Self Financing
+589,BBA - Business Administration,16,0,"KVM College of Arts and Science, Kokkothamangalam,Cherthala",Alappuzha,Self Financing,Self Financing
+590,BCom - Finance,24,0,"KVM College of Arts and Science, Kokkothamangalam,Cherthala",Alappuzha,Self Financing,Self Financing
+591,BCom - Computer Application,18,0,"KVM College of Arts and Science, Kokkothamangalam,Cherthala",Alappuzha,Self Financing,Self Financing
+592,BA - Economics,29,0,"Mar Ivanios College of Arts & Science,Kallumala,Mavelikara",Alappuzha,Self Financing,Self Financing
+593,BA - English,23,0,"Mar Ivanios College of Arts & Science,Kallumala,Mavelikara",Alappuzha,Self Financing,Self Financing
+594,BSc - Computer Science,14,0,"Mar Ivanios College of Arts & Science,Kallumala,Mavelikara",Alappuzha,Self Financing,Self Financing
+595,BCom - Commerce & Tax Procedure and Practice,16,0,"Mar Ivanios College of Arts & Science,Kallumala,Mavelikara",Alappuzha,Self Financing,Self Financing
+596,BCom - Commerce & Tourism and Travel Management,23,0,"Mar Ivanios College of Arts & Science,Kallumala,Mavelikara",Alappuzha,Self Financing,Self Financing
+597,BCom - Finance,11,0,"Mar Ivanios College of Arts & Science,Kallumala,Mavelikara",Alappuzha,Self Financing,Self Financing
+598,BBA - Logistics,14,2,"Mar Ivanios College of Arts & Science,Kallumala,Mavelikara",Alappuzha,Self Financing,Self Financing
+599,BA - Economics,26,0,"Gregorian College of Advanced Studies,Alathara,Sreekariyam",Thiruvananthapuram,Self Financing,Self Financing
+600,BA - English,27,0,"Gregorian College of Advanced Studies,Alathara,Sreekariyam",Thiruvananthapuram,Self Financing,Self Financing
+601,BSc - Psychology,17,0,"Gregorian College of Advanced Studies,Alathara,Sreekariyam",Thiruvananthapuram,Self Financing,Self Financing
+602,BCom - Finance,36,0,"Gregorian College of Advanced Studies,Alathara,Sreekariyam",Thiruvananthapuram,Self Financing,Self Financing
+603,BA - English,14,0,"Marian College of Arts & Science, Menamkulam",Thiruvananthapuram,Self Financing,Self Financing
+604,BSc - Computer Science,5,0,"Marian College of Arts & Science, Menamkulam",Thiruvananthapuram,Self Financing,Self Financing
+605,BSc - Geography,6,0,"Marian College of Arts & Science, Menamkulam",Thiruvananthapuram,Self Financing,Self Financing
+606,BSc - Zoology,6,0,"Marian College of Arts & Science, Menamkulam",Thiruvananthapuram,Self Financing,Self Financing
+607,BBA - Business Administration,7,0,"Marian College of Arts & Science, Menamkulam",Thiruvananthapuram,Self Financing,Self Financing
+608,BCom - Computer Application,7,0,"Marian College of Arts & Science, Menamkulam",Thiruvananthapuram,Self Financing,Self Financing
+609,BA - English,17,0,"M.E.S Arts & Science College, Chathannoor",Kollam,Private,Self Financing
+610,BSc - Computer Science,17,0,"M.E.S Arts & Science College, Chathannoor",Kollam,Private,Self Financing
+611,BCom - Commerce & Tax Procedure and Practice,18,0,"M.E.S Arts & Science College, Chathannoor",Kollam,Private,Self Financing
+612,BA - Economics,19,0,"NSS College of Arts & Science,Perayam,Kundara",Kollam,Self Financing,Self Financing
+613,BA - English,24,0,"NSS College of Arts & Science,Perayam,Kundara",Kollam,Self Financing,Self Financing
+614,BA - History,20,0,"NSS College of Arts & Science,Perayam,Kundara",Kollam,Self Financing,Self Financing
+615,BSc - Mathematics,19,0,"NSS College of Arts & Science,Perayam,Kundara",Kollam,Self Financing,Self Financing
+616,BSc - Physics,20,0,"NSS College of Arts & Science,Perayam,Kundara",Kollam,Self Financing,Self Financing
+617,BCom - Finance,12,0,"NSS College of Arts & Science,Perayam,Kundara",Kollam,Self Financing,Self Financing
+618,BCom - Co-operation,16,0,"NSS College of Arts & Science,Perayam,Kundara",Kollam,Self Financing,Self Financing
+619,BA - English,15,0,"White Memorial College of Arts and Science, Panachamoodu,Vellarada",Thiruvananthapuram,Self Financing,Self Financing
+620,BSc - Chemistry,16,0,"White Memorial College of Arts and Science, Panachamoodu,Vellarada",Thiruvananthapuram,Self Financing,Self Financing
+621,BSc - Mathematics,15,0,"White Memorial College of Arts and Science, Panachamoodu,Vellarada",Thiruvananthapuram,Self Financing,Self Financing
+622,BSc - Physics,16,0,"White Memorial College of Arts and Science, Panachamoodu,Vellarada",Thiruvananthapuram,Self Financing,Self Financing
+623,BSW - Bachelor of Social Work,16,0,"White Memorial College of Arts and Science, Panachamoodu,Vellarada",Thiruvananthapuram,Self Financing,Self Financing
+624,BCom - Co-operation,21,0,"White Memorial College of Arts and Science, Panachamoodu,Vellarada",Thiruvananthapuram,Self Financing,Self Financing
+625,BCom - Computer Application,25,0,"White Memorial College of Arts and Science, Panachamoodu,Vellarada",Thiruvananthapuram,Self Financing,Self Financing
+626,BA - English,26,0,"Sree Narayana Guru College of Advanced Studies ,Nangiarkulangara",Alappuzha,Self Financing,Self Financing
+627,BSc - Geography,20,0,"Sree Narayana Guru College of Advanced Studies ,Nangiarkulangara",Alappuzha,Self Financing,Self Financing
+628,BSc - Physics,20,0,"Sree Narayana Guru College of Advanced Studies ,Nangiarkulangara",Alappuzha,Self Financing,Aided
+629,BSc - Statistics,17,0,"Sree Narayana Guru College of Advanced Studies ,Nangiarkulangara",Alappuzha,Self Financing,Self Financing
+630,BCom - Commerce & Tax Procedure and Practice,32,0,"Sree Narayana Guru College of Advanced Studies ,Nangiarkulangara",Alappuzha,Self Financing,Self Financing
+631,BCom - Computer Application,25,0,"Sree Narayana Guru College of Advanced Studies ,Nangiarkulangara",Alappuzha,Self Financing,Self Financing
+632,BA - English,6,0,"Saraswathi College of Arts & Science,Vilappil",Thiruvananthapuram,Self Financing,Self Financing
+633,BSc - Psychology,9,0,"Saraswathi College of Arts & Science,Vilappil",Thiruvananthapuram,Self Financing,Self Financing
+634,BSc - Geology,5,0,"Saraswathi College of Arts & Science,Vilappil",Thiruvananthapuram,Self Financing,Self Financing
+635,BSc - Physics,12,0,"Saraswathi College of Arts & Science,Vilappil",Thiruvananthapuram,Self Financing,Self Financing
+636,BBA - Business Administration,15,0,"Saraswathi College of Arts & Science,Vilappil",Thiruvananthapuram,Self Financing,Self Financing
+637,BCom - Finance,0,0,"Saraswathi College of Arts & Science,Vilappil",Thiruvananthapuram,Self Financing,Self Financing
+638,BCom - Computer Application,11,0,"Saraswathi College of Arts & Science,Vilappil",Thiruvananthapuram,Self Financing,Self Financing
+639,BA - English,21,0,"Mar Gregorios College of Arts & Science, Punnapra",Alappuzha,Self Financing,Self Financing
+640,BCom - Commerce & Tax Procedure and Practice,14,0,"Mar Gregorios College of Arts & Science, Punnapra",Alappuzha,Self Financing,Self Financing
+641,BCom - Commerce & Tourism and Travel Management,28,0,"Mar Gregorios College of Arts & Science, Punnapra",Alappuzha,Self Financing,Self Financing
+642,BCom - Commerce with Computer Application,15,0,"Mar Gregorios College of Arts & Science, Punnapra",Alappuzha,Self Financing,Self Financing
+643,BCA - Computer Applications,1,0,"Mar Gregorios College of Arts & Science, Punnapra",Alappuzha,Self Financing,Self Financing
+644,BCom - Finance,6,0,"Mar Gregorios College of Arts & Science, Punnapra",Alappuzha,Self Financing,Self Financing
+645,BCom - Insurance & Banking,17,0,"Mar Gregorios College of Arts & Science, Punnapra",Alappuzha,Self Financing,Self Financing
+646,BA - Economics,13,0,"Mother Theresa College, Nellikad, Kattakada",Thiruvananthapuram,Self Financing,Self Financing
+647,BA - English,11,0,"Mother Theresa College, Nellikad, Kattakada",Thiruvananthapuram,Self Financing,Self Financing
+648,BA - Malayalam and Mass Communication,26,0,"Mother Theresa College, Nellikad, Kattakada",Thiruvananthapuram,Self Financing,Self Financing
+649,BSc - Chemistry,24,0,"Mother Theresa College, Nellikad, Kattakada",Thiruvananthapuram,Self Financing,Self Financing
+650,BSc - Mathematics,31,0,"Mother Theresa College, Nellikad, Kattakada",Thiruvananthapuram,Self Financing,Self Financing
+651,BSc - Physics,27,0,"Mother Theresa College, Nellikad, Kattakada",Thiruvananthapuram,Self Financing,Self Financing
+652,BCom - Commerce with Computer Application,13,0,"Mother Theresa College, Nellikad, Kattakada",Thiruvananthapuram,Self Financing,Self Financing
+653,BA - English,21,0,"Don Bosco College, Kottiyam",Kollam,Self Financing,Self Financing
+654,BSc - Psychology,8,0,"Don Bosco College, Kottiyam",Kollam,Self Financing,Self Financing
+655,BCom - Commerce & Tax Procedure and Practice,15,0,"Don Bosco College, Kottiyam",Kollam,Self Financing,Self Financing
+656,BCom - Commerce with Computer Application,14,0,"Don Bosco College, Kottiyam",Kollam,Self Financing,Self Financing
+657,BCA - Computer Applications,9,0,"Don Bosco College, Kottiyam",Kollam,Self Financing,Self Financing
+658,BBA - Business Administration,3,0,"Don Bosco College, Kottiyam",Kollam,Self Financing,Self Financing
+659,BSW - Bachelor of Social Work,16,0,"Don Bosco College, Kottiyam",Kollam,Self Financing,Self Financing
+660,BCom - Finance,7,0,"Don Bosco College, Kottiyam",Kollam,Self Financing,Self Financing
+661,BA - Economics,8,0,"KTCT College of Arts & Science, Kallambalam",Thiruvananthapuram,Self Financing,Self Financing
+662,BA - English,15,0,"KTCT College of Arts & Science, Kallambalam",Thiruvananthapuram,Self Financing,Self Financing
+663,BA - Sociology,14,0,"KTCT College of Arts & Science, Kallambalam",Thiruvananthapuram,Self Financing,Self Financing
+664,BSc - Mathematics,12,0,"KTCT College of Arts & Science, Kallambalam",Thiruvananthapuram,Self Financing,Self Financing
+665,BBA - Business Administration,5,0,"KTCT College of Arts & Science, Kallambalam",Thiruvananthapuram,Self Financing,Self Financing
+666,BCom - Finance,5,0,"KTCT College of Arts & Science, Kallambalam",Thiruvananthapuram,Self Financing,Self Financing
+667,BCom - Co-operation,0,0,"KTCT College of Arts & Science, Kallambalam",Thiruvananthapuram,Self Financing,Self Financing
+668,BCom - Computer Application,6,0,"KTCT College of Arts & Science, Kallambalam",Thiruvananthapuram,Self Financing,Self Financing
+669,BA - English & Communicative English,17,0,"KNM College of Arts & Science, Kanjiramkulam",Thiruvananthapuram,Self Financing,Self Financing
+670,BA - English,18,0,"KNM College of Arts & Science, Kanjiramkulam",Thiruvananthapuram,Self Financing,Self Financing
+671,BA - History,15,0,"KNM College of Arts & Science, Kanjiramkulam",Thiruvananthapuram,Self Financing,Self Financing
+672,BSc - Chemistry,14,0,"KNM College of Arts & Science, Kanjiramkulam",Thiruvananthapuram,Self Financing,Self Financing
+673,BSc - Physics,18,0,"KNM College of Arts & Science, Kanjiramkulam",Thiruvananthapuram,Self Financing,Self Financing
+674,BBA - Business Administration,14,0,"KNM College of Arts & Science, Kanjiramkulam",Thiruvananthapuram,Self Financing,Self Financing
+675,BCom - Co-operation,7,0,"KNM College of Arts & Science, Kanjiramkulam",Thiruvananthapuram,Self Financing,Self Financing
+676,BA - English & Communicative English,14,0,"R.ParameswaranPillai Memorial Arts & Science College, Neyyar Dam",Thiruvananthapuram,Self Financing,Self Financing
+677,BSc - Computer Science,10,0,"R.ParameswaranPillai Memorial Arts & Science College, Neyyar Dam",Thiruvananthapuram,Self Financing,Self Financing
+678,BCom - Commerce with Computer Application,17,0,"R.ParameswaranPillai Memorial Arts & Science College, Neyyar Dam",Thiruvananthapuram,Self Financing,Self Financing
+679,BBA - Business Administration,3,0,"R.ParameswaranPillai Memorial Arts & Science College, Neyyar Dam",Thiruvananthapuram,Self Financing,Self Financing
+680,BCom - Co-operation,18,0,"R.ParameswaranPillai Memorial Arts & Science College, Neyyar Dam",Kollam,Self Financing,Self Financing
+681,BA - Economics,34,0,"Dr Palpu College of Arts & Science,Puthussery",Kollam,Self Financing,Self Financing
+682,BA - English,28,0,"Dr Palpu College of Arts & Science,Puthussery",Kollam,Self Financing,Self Financing
+683,BA - Political Science,31,0,"Dr Palpu College of Arts & Science,Puthussery",Kollam,Self Financing,Self Financing
+684,BA - Journalism and Mass Communication,21,0,"Dr Palpu College of Arts & Science,Puthussery",Kollam,Self Financing,Self Financing
+685,BSc - Geology,16,0,"Dr Palpu College of Arts & Science,Puthussery",Kollam,Self Financing,Self Financing
+686,BCom - Finance,26,0,"Dr Palpu College of Arts & Science,Puthussery",Kollam,Self Financing,Self Financing
+687,BCom - Co-operation,25,0,"Dr Palpu College of Arts & Science,Puthussery",Kollam,Self Financing,Self Financing
+688,BA - English,30,0,"Carmel College,Muhamma",Alappuzha,Self Financing,Self Financing
+689,BCom - Commerce & Tax Procedure and Practice,25,0,"Carmel College,Muhamma",Alappuzha,Self Financing,Self Financing
+690,BCom - Commerce with Computer Application,22,0,"Carmel College,Muhamma",Alappuzha,Self Financing,Self Financing
+691,BCA - Computer Applications,10,0,"Carmel College,Muhamma",Alappuzha,Self Financing,Self Financing
+692,BA - English,25,0,"Mar Chrysostom College, Paranthal, Adoor",Pathanamthitta,Self Financing,Self Financing
+693,BSc - Psychology,13,0,"Mar Chrysostom College, Paranthal, Adoor",Pathanamthitta,Self Financing,Self Financing
+694,BCom - Commerce & Tax Procedure and Practice,23,0,"Mar Chrysostom College, Paranthal, Adoor",Pathanamthitta,Self Financing,Self Financing
+695,BCom - Commerce with Computer Application,23,0,"Mar Chrysostom College, Paranthal, Adoor",Pathanamthitta,Self Financing,Self Financing
+696,BCA - Computer Applications,15,0,"Mar Chrysostom College, Paranthal, Adoor",Pathanamthitta,Self Financing,Self Financing
+697,BBA - Logistics,17,2,"Mar Chrysostom College, Paranthal, Adoor",Pathanamthitta,Self Financing,Self Financing
+698,BA - English,23,0,"Mannam N S S College,Edamulakkal,Anchal",Kollam,Self Financing,Self Financing
+699,BCom - Commerce with Computer Application,27,0,"Mannam N S S College,Edamulakkal,Anchal",Kollam,Self Financing,Self Financing
+700,BCom - Finance,18,0,"Mannam N S S College,Edamulakkal,Anchal",Kollam,Self Financing,Self Financing
+701,BCom - Co-operation,8,0,"Mannam N S S College,Edamulakkal,Anchal",Kollam,Self Financing,Self Financing
+702,BA - English & Communicative English,18,0,"Christ College,Vizhinjam",Thiruvananthapuram,Self Financing,Self Financing
+703,BA - English,8,0,"Christ College,Vizhinjam",Thiruvananthapuram,Self Financing,Self Financing
+704,BSc - Psychology,3,0,"Christ College,Vizhinjam",Thiruvananthapuram,Self Financing,Self Financing
+705,BCom - Commerce & Tax Procedure and Practice,0,0,"Christ College,Vizhinjam",Thiruvananthapuram,Self Financing,Self Financing
+706,BCom - Commerce & Tourism and Travel Management,15,0,"Christ College,Vizhinjam",Thiruvananthapuram,Self Financing,Self Financing
+707,BCA - Computer Applications,6,0,"Christ College,Vizhinjam",Thiruvananthapuram,Self Financing,Self Financing
+708,BBA - Business Administration,10,0,"Christ College,Vizhinjam",Thiruvananthapuram,Self Financing,Self Financing
+709,BCom - Finance,1,0,"Christ College,Vizhinjam",Thiruvananthapuram,Self Financing,Self Financing
+710,BA - English,27,0,"Mater Dei CMI College ,Enath,Pathanamthitta",Pathanamthitta,Self Financing,Self Financing
+711,BSc - Psychology,18,0,"Mater Dei CMI College ,Enath,Pathanamthitta",Pathanamthitta,Self Financing,Self Financing
+712,BCom - Commerce & Tax Procedure and Practice,27,0,"Mater Dei CMI College ,Enath,Pathanamthitta",Pathanamthitta,Self Financing,Self Financing
+713,BCom - Commerce with Computer Application,24,0,"Mater Dei CMI College ,Enath,Pathanamthitta",Pathanamthitta,Self Financing,Self Financing
+714,BBA - Business Administration,30,0,"Mater Dei CMI College ,Enath,Pathanamthitta",Pathanamthitta,Self Financing,Self Financing
+715,BCom - Travel and Tourism,8,0,Kerala Institute of Tourism and Travel Studies,Thiruvananthapuram,Self Financing,Self Financing
+716,BBA - Business Administration,5,0,Kerala Institute of Tourism and Travel Studies,Thiruvananthapuram,Self Financing,Self Financing
+717,BA - Economics,23,0,"R.Sankar College of Arts & Science, Thazham South,Chathanoor",Kollam,Self Financing,Self Financing
+718,BA - English,24,0,"R.Sankar College of Arts & Science, Thazham South,Chathanoor",Kollam,Self Financing,Self Financing
+719,BSc - Chemistry,21,0,"R.Sankar College of Arts & Science, Thazham South,Chathanoor",Kollam,Self Financing,Self Financing
+720,BSc - Physics,25,0,"R.Sankar College of Arts & Science, Thazham South,Chathanoor",Kollam,Self Financing,Self Financing
+721,BCom - Commerce with Computer Application,22,0,"R.Sankar College of Arts & Science, Thazham South,Chathanoor",Kollam,Self Financing,Self Financing
+722,BMS - Hotel Management,22,0,"R.Sankar College of Arts & Science, Thazham South,Chathanoor",Kollam,Self Financing,Self Financing
+723,BA - English & Communicative English,10,0,"A J College of Science and Technology, Thonnakkal",Thiruvananthapuram,Self Financing,Self Financing
+724,BA - Economics,11,0,"A J College of Science and Technology, Thonnakkal",Thiruvananthapuram,Self Financing,Self Financing
+725,BA - Journalism and Mass Communication,7,0,"A J College of Science and Technology, Thonnakkal",Thiruvananthapuram,Self Financing,Self Financing
+726,BSc - Botany,12,0,"A J College of Science and Technology, Thonnakkal",Thiruvananthapuram,Self Financing,Self Financing
+727,BSc - Botany and Biotechnology,11,0,"A J College of Science and Technology, Thonnakkal",Thiruvananthapuram,Self Financing,Self Financing
+728,BSc - Computer Science,0,0,"A J College of Science and Technology, Thonnakkal",Thiruvananthapuram,Self Financing,Self Financing
+729,BSc - Biochemistry and Industrial Microbiology,11,0,"A J College of Science and Technology, Thonnakkal",Thiruvananthapuram,Self Financing,Self Financing
+730,BBA - Business Administration,0,0,"A J College of Science and Technology, Thonnakkal",Thiruvananthapuram,Self Financing,Self Financing
+731,BMS - Hotel Management,18,0,"A J College of Science and Technology, Thonnakkal",Thiruvananthapuram,Self Financing,Self Financing
+732,BCom - Finance,0,0,"A J College of Science and Technology, Thonnakkal",Thiruvananthapuram,Self Financing,Self Financing
+733,BCom - Computer Application,0,0,"A J College of Science and Technology, Thonnakkal",Thiruvananthapuram,Self Financing,Self Financing
+734,BA - English,8,0,"Sree Narayana Guru College of Advanced Studies, Chempazhanthy",Thiruvananthapuram,Self Financing,Self Financing
+735,BSc - Psychology,2,0,"Sree Narayana Guru College of Advanced Studies, Chempazhanthy",Thiruvananthapuram,Self Financing,Self Financing
+736,BSc - Chemistry,20,0,"Sree Narayana Guru College of Advanced Studies, Chempazhanthy",Thiruvananthapuram,Self Financing,Self Financing
+737,BSc - Geography,10,0,"Sree Narayana Guru College of Advanced Studies, Chempazhanthy",Thiruvananthapuram,Self Financing,Self Financing
+738,BSc - Geology,19,0,"Sree Narayana Guru College of Advanced Studies, Chempazhanthy",Thiruvananthapuram,Self Financing,Self Financing
+739,BSc - Physics,22,0,"Sree Narayana Guru College of Advanced Studies, Chempazhanthy",Thiruvananthapuram,Self Financing,Self Financing
+740,BCom - Commerce & Tax Procedure and Practice,1,0,"Sree Narayana Guru College of Advanced Studies, Chempazhanthy",Thiruvananthapuram,Self Financing,Self Financing
+741,BCom - Co-operation,0,0,"Sree Narayana Guru College of Advanced Studies, Chempazhanthy",Thiruvananthapuram,Self Financing,Self Financing
+742,BA - English,27,0,"Travancore Arts and Science College, Madathara, Palode",Thiruvananthapuram,Self Financing,Self Financing
+743,BCom - Commerce with Computer Application,28,0,"Travancore Arts and Science College, Madathara, Palode",Thiruvananthapuram,Self Financing,Self Financing
+744,BCom - Finance,22,0,"Travancore Arts and Science College, Madathara, Palode",Thiruvananthapuram,Self Financing,Self Financing
+745,BCom - Co-operation,23,0,"Travancore Arts and Science College, Madathara, Palode",Thiruvananthapuram,Self Financing,Self Financing
+746,BA - Economics,21,0,"IMDR College of Advanced Studies, Cheriyakonni",Thiruvananthapuram,Self Financing,Self Financing
+747,BA - English,21,0,"IMDR College of Advanced Studies, Cheriyakonni",Thiruvananthapuram,Self Financing,Self Financing
+748,BCom - Commerce & Tax Procedure and Practice,27,0,"IMDR College of Advanced Studies, Cheriyakonni",Thiruvananthapuram,Self Financing,Self Financing
+749,BBA - Business Administration,19,0,"IMDR College of Advanced Studies, Cheriyakonni",Thiruvananthapuram,Self Financing,Self Financing
+750,BCom - Finance,18,0,"IMDR College of Advanced Studies, Cheriyakonni",Thiruvananthapuram,Self Financing,Self Financing
+751,BCom - Insurance & Banking,27,0,"IMDR College of Advanced Studies, Cheriyakonni",Thiruvananthapuram,Self Financing,Self Financing
+752,BCom - Commerce with Computer Application,28,0,"Grace International Academy, Punalur",Kollam,Self Financing,Self Financing
+753,BBA - Business Administration,28,0,"Grace International Academy, Punalur",Kollam,Self Financing,Self Financing
+754,BCom - Finance,30,0,"Grace International Academy, Punalur",Kollam,Self Financing,Self Financing
+755,BA - English,11,0,"Vigyaan College of Applied Science,Kattakada",Thiruvananthapuram,Self Financing,Self Financing
+756,BCom - Commerce with Computer Application,20,0,"Vigyaan College of Applied Science,Kattakada",Thiruvananthapuram,Self Financing,Self Financing
+757,BCA - Computer Applications,10,0,"Vigyaan College of Applied Science,Kattakada",Thiruvananthapuram,Self Financing,Self Financing
+758,BBA - Business Administration,8,0,"Vigyaan College of Applied Science,Kattakada",Thiruvananthapuram,Self Financing,Self Financing
+759,BCom - Co-operation,14,0,"Vigyaan College of Applied Science,Kattakada",Thiruvananthapuram,Self Financing,Self Financing
+760,BA - English,2,0,Christ Nagar College Maranalloor,Thiruvananthapuram,Self Financing,Self Financing
+761,BSc - Psychology,2,0,Christ Nagar College Maranalloor,Thiruvananthapuram,Self Financing,Self Financing
+762,BA - Journalism and Mass Communication,12,0,Christ Nagar College Maranalloor,Thiruvananthapuram,Self Financing,Self Financing
+763,BSc - Mathematics,10,0,Christ Nagar College Maranalloor,Thiruvananthapuram,Self Financing,Self Financing
+764,BSc - Physics and Computer Application,4,0,Christ Nagar College Maranalloor,Thiruvananthapuram,Self Financing,Self Financing
+765,BSc - Statistics,7,0,Christ Nagar College Maranalloor,Thiruvananthapuram,Self Financing,Self Financing
+766,BCom - Commerce & Tax Procedure and Practice,1,0,Christ Nagar College Maranalloor,Thiruvananthapuram,Self Financing,Self Financing
+767,BCom - Commerce with Computer Application,0,0,Christ Nagar College Maranalloor,Thiruvananthapuram,Self Financing,Self Financing
+768,BCA - Computer Applications,0,0,Christ Nagar College Maranalloor,Thiruvananthapuram,Self Financing,Self Financing
+769,BBA - Business Administration,0,0,Christ Nagar College Maranalloor,Thiruvananthapuram,Self Financing,Self Financing
+770,BA - English,20,0,"Sree Narayana Guru Memorial Arts & Science College, Thuravoor",Alappuzha,Self Financing,Self Financing
+771,BSc - Botany and Biotechnology,15,0,"Sree Narayana Guru Memorial Arts & Science College, Thuravoor",Alappuzha,Self Financing,Self Financing
+772,BCom - Commerce & Tax Procedure and Practice,16,0,"Sree Narayana Guru Memorial Arts & Science College, Thuravoor",Alappuzha,Self Financing,Self Financing
+773,BCom - Commerce with Computer Application,11,0,"Sree Narayana Guru Memorial Arts & Science College, Thuravoor",Alappuzha,Self Financing,Self Financing
+774,BCA - Computer Applications,8,0,"Sree Narayana Guru Memorial Arts & Science College, Thuravoor",Alappuzha,Self Financing,Self Financing
+775,BBA - Business Administration,15,0,"Sree Narayana Guru Memorial Arts & Science College, Thuravoor",Alappuzha,Self Financing,Self Financing
+776,BCom - Co-operation,22,0,"Sree Narayana Guru Memorial Arts & Science College, Thuravoor",Alappuzha,Self Financing,Self Financing
+777,BA - English,23,0,"Sree Narayana College of Technology, Vadakkevila",Kollam,Self Financing,Self Financing
+778,BSc - Botany and Biotechnology,14,0,"Sree Narayana College of Technology, Vadakkevila",Kollam,Self Financing,Self Financing
+779,BCom - Commerce with Computer Application,6,0,"Sree Narayana College of Technology, Vadakkevila",Kollam,Self Financing,Self Financing
+780,BCA - Computer Applications,6,0,"Sree Narayana College of Technology, Vadakkevila",Kollam,Self Financing,Self Financing
+781,BSc - Computer Science,12,0,"PMSA Pookoya Thangal Memorial Arts and Science College,Kadakkal",Kollam,Self Financing,Self Financing
+782,BSc - Biochemistry and Industrial Microbiology,15,0,"PMSA Pookoya Thangal Memorial Arts and Science College,Kadakkal",Kollam,Self Financing,Self Financing
+783,BCA - Computer Applications,16,0,"PMSA Pookoya Thangal Memorial Arts and Science College,Kadakkal",Kollam,Self Financing,Self Financing
+784,BBA - Business Administration,23,0,"PMSA Pookoya Thangal Memorial Arts and Science College,Kadakkal",Kollam,Self Financing,Self Financing
+785,BCom - Co-operation,28,0,"PMSA Pookoya Thangal Memorial Arts and Science College,Kadakkal",Kollam,Self Financing,Self Financing
+786,BCom - Computer Application,26,0,"PMSA Pookoya Thangal Memorial Arts and Science College,Kadakkal",Kollam,Self Financing,Self Financing
+787,BA - English & Communicative English,26,0,"Naipunya School of Management,Cherthala",Alappuzha,Self Financing,Self Financing
+788,BSc - Computer Science,23,0,"Naipunya School of Management,Cherthala",Alappuzha,Self Financing,Self Financing
+789,BCom - Commerce & Tax Procedure and Practice,29,0,"Naipunya School of Management,Cherthala",Alappuzha,Self Financing,Self Financing
+790,BCom - Commerce & Tourism and Travel Management,29,0,"Naipunya School of Management,Cherthala",Alappuzha,Self Financing,Self Financing
+791,BCom - Commerce with Computer Application,54,0,"Naipunya School of Management,Cherthala",Alappuzha,Self Financing,Self Financing
+792,BCA - Computer Applications,2,0,"Naipunya School of Management,Cherthala",Alappuzha,Self Financing,Self Financing
+793,BBA - Business Administration,11,0,"Naipunya School of Management,Cherthala",Alappuzha,Self Financing,Self Financing
+794,BMS - Hotel Management,29,0,"Naipunya School of Management,Cherthala",Alappuzha,Self Financing,Self Financing
+795,BCom - Finance,7,0,"Naipunya School of Management,Cherthala",Alappuzha,Self Financing,Self Financing
+796,BA - English,18,0,"MSN Institute of Management & Technology, Mukundapuram,Chavara",Kollam,Self Financing,Self Financing
+797,BCom - Co-operation,13,0,"MSN Institute of Management & Technology, Mukundapuram,Chavara",Kollam,Self Financing,Self Financing
+798,BCom - Computer Application,31,0,"MSN Institute of Management & Technology, Mukundapuram,Chavara",Kollam,Self Financing,Self Financing
+799,BA - Economics,24,0,"Sree Narayana Guru College of Advanced Studies, Cherthala",Alappuzha,Self Financing,Self Financing
+800,BA - English,25,0,"Sree Narayana Guru College of Advanced Studies, Cherthala",Alappuzha,Self Financing,Self Financing
+801,BA - History,25,0,"Sree Narayana Guru College of Advanced Studies, Cherthala",Alappuzha,Self Financing,Self Financing
+802,BSc - Chemistry,22,0,"Sree Narayana Guru College of Advanced Studies, Cherthala",Alappuzha,Self Financing,Self Financing
+803,BSc - Geography,14,0,"Sree Narayana Guru College of Advanced Studies, Cherthala",Alappuzha,Self Financing,Self Financing
+804,BSc - Mathematics,15,0,"Sree Narayana Guru College of Advanced Studies, Cherthala",Alappuzha,Self Financing,Self Financing
+805,BSc - Physics,15,0,"Sree Narayana Guru College of Advanced Studies, Cherthala",Alappuzha,Self Financing,Self Financing
+806,BCom - Commerce & Tax Procedure and Practice,16,0,"Sree Narayana Guru College of Advanced Studies, Cherthala",Alappuzha,Self Financing,Self Financing
+807,BCom - Computer Application,20,0,"Sree Narayana Guru College of Advanced Studies, Cherthala",Alappuzha,Self Financing,Self Financing
+808,BA - English,27,0,"Sree Narayana Guru College of Advanced Studies, Punalur",Kollam,Self Financing,Self Financing
+809,BSc - Physics,25,0,"Sree Narayana Guru College of Advanced Studies, Punalur",Kollam,Self Financing,Self Financing
+810,BCom - Commerce with Computer Application,25,0,"Sree Narayana Guru College of Advanced Studies, Punalur",Kollam,Self Financing,Self Financing
+811,BBA - Business Administration,23,0,"Sree Narayana Guru College of Advanced Studies, Punalur",Kollam,Self Financing,Self Financing
+812,BA - English & Communicative English,26,0,"CHMM College for Advanced Studies, Chavarkode",Thiruvananthapuram,Self Financing,Self Financing
+813,BA - English,16,0,"CHMM College for Advanced Studies, Chavarkode",Thiruvananthapuram,Self Financing,Self Financing
+814,BA - Journalism and Mass Communication,17,0,"CHMM College for Advanced Studies, Chavarkode",Thiruvananthapuram,Self Financing,Self Financing
+815,BSc - Computer Science,8,0,"CHMM College for Advanced Studies, Chavarkode",Thiruvananthapuram,Self Financing,Self Financing
+816,BSc - Electronics,20,0,"CHMM College for Advanced Studies, Chavarkode",Thiruvananthapuram,Self Financing,Self Financing
+817,BCom - Commerce & Tax Procedure and Practice,8,0,"CHMM College for Advanced Studies, Chavarkode",Thiruvananthapuram,Self Financing,Self Financing
+818,BCom - Commerce & Tourism and Travel Management,11,0,"CHMM College for Advanced Studies, Chavarkode",Thiruvananthapuram,Self Financing,Self Financing
+819,BCA - Computer Applications,10,0,"CHMM College for Advanced Studies, Chavarkode",Thiruvananthapuram,Self Financing,Self Financing
+820,BBA - Business Administration,12,0,"CHMM College for Advanced Studies, Chavarkode",Thiruvananthapuram,Self Financing,Self Financing
+821,BSW - Bachelor of Social Work,16,0,"CHMM College for Advanced Studies, Chavarkode",Thiruvananthapuram,Self Financing,Self Financing
+822,BCom - Co-operation,4,0,"CHMM College for Advanced Studies, Chavarkode",Thiruvananthapuram,Self Financing,Self Financing
+823,BCom - Computer Application,7,0,"CHMM College for Advanced Studies, Chavarkode",Thiruvananthapuram,Self Financing,Self Financing
+824,BA - English,11,0,"Sree Sankara Vidya Peetom College, Nagaroor",Thiruvananthapuram,Self Financing,Self Financing
+825,BSc - Psychology,15,0,"Sree Sankara Vidya Peetom College, Nagaroor",Thiruvananthapuram,Self Financing,Self Financing
+826,BSc - Computer Science,12,0,"Sree Sankara Vidya Peetom College, Nagaroor",Thiruvananthapuram,Self Financing,Self Financing
+827,BBA - Business Administration,3,0,"Sree Sankara Vidya Peetom College, Nagaroor",Thiruvananthapuram,Self Financing,Self Financing
+828,BCom - Co-operation,12,0,"Sree Sankara Vidya Peetom College, Nagaroor",Thiruvananthapuram,Self Financing,Self Financing
+829,BCom - Computer Application,16,0,"Sree Sankara Vidya Peetom College, Nagaroor",Thiruvananthapuram,Self Financing,Self Financing
+830,BA - English & Communicative English,11,0,"Emmanuel College, Vazhichal",Thiruvananthapuram,Self Financing,Self Financing
+831,BA - English,13,0,"Emmanuel College, Vazhichal",Thiruvananthapuram,Self Financing,Self Financing
+832,BSc - Bio Chemistry,29,0,"Emmanuel College, Vazhichal",Thiruvananthapuram,Self Financing,Self Financing
+833,BSc - Botany and Biotechnology,25,0,"Emmanuel College, Vazhichal",Thiruvananthapuram,Self Financing,Self Financing
+834,BSc - Computer Science,14,0,"Emmanuel College, Vazhichal",Thiruvananthapuram,Self Financing,Self Financing
+835,BSc - Electronics,35,0,"Emmanuel College, Vazhichal",Thiruvananthapuram,Self Financing,Self Financing
+836,BSc - Geography,24,0,"Emmanuel College, Vazhichal",Thiruvananthapuram,Self Financing,Self Financing
+837,BSc - Physics and Computer Application,31,0,"Emmanuel College, Vazhichal",Thiruvananthapuram,Self Financing,Self Financing
+838,BCom - Commerce & Tax Procedure and Practice,9,0,"Emmanuel College, Vazhichal",Thiruvananthapuram,Self Financing,Self Financing
+839,BCom - Commerce & Tourism and Travel Management,27,0,"Emmanuel College, Vazhichal",Thiruvananthapuram,Self Financing,Self Financing
+840,BCom - Finance,4,0,"Emmanuel College, Vazhichal",Thiruvananthapuram,Self Financing,Self Financing
+841,BCom - Co-operation,7,0,"Emmanuel College, Vazhichal",Thiruvananthapuram,Self Financing,Self Financing
+842,BCom - Computer Application,9,0,"Emmanuel College, Vazhichal",Thiruvananthapuram,Self Financing,Self Financing
+843,BA - English & Communicative English,30,0,"K V V S College of Science and Technology, Kaithaparambu, Adoor",Pathanamthitta,Self Financing,Self Financing
+844,BSc - Botany and Biotechnology,27,0,"K V V S College of Science and Technology, Kaithaparambu, Adoor",Pathanamthitta,Self Financing,Self Financing
+845,BSc - Computer Science,30,0,"K V V S College of Science and Technology, Kaithaparambu, Adoor",Pathanamthitta,Self Financing,Self Financing
+846,BSc - Electronics,29,0,"K V V S College of Science and Technology, Kaithaparambu, Adoor",Pathanamthitta,Self Financing,Self Financing
+847,BSc - Physics and Computer Application,17,0,"K V V S College of Science and Technology, Kaithaparambu, Adoor",Pathanamthitta,Self Financing,Self Financing
+848,BCom - Commerce & Tourism and Travel Management,32,0,"K V V S College of Science and Technology, Kaithaparambu, Adoor",Pathanamthitta,Self Financing,Self Financing
+849,BCom - Commerce with Computer Application,30,0,"K V V S College of Science and Technology, Kaithaparambu, Adoor",Pathanamthitta,Self Financing,Self Financing
+850,BCA - Computer Applications,19,0,"K V V S College of Science and Technology, Kaithaparambu, Adoor",Pathanamthitta,Self Financing,Self Financing
+851,BBA - Business Administration,25,0,"K V V S College of Science and Technology, Kaithaparambu, Adoor",Pathanamthitta,Self Financing,Self Financing
+852,BCom - Finance,25,0,"K V V S College of Science and Technology, Kaithaparambu, Adoor",Pathanamthitta,Self Financing,Self Financing
+853,BCom - Computer Application,29,0,"K V V S College of Science and Technology, Kaithaparambu, Adoor",Pathanamthitta,Self Financing,Self Financing
+854,BA - English,8,0,"Marthoma College of Science And Technology, Ayur",Kollam,Self Financing,Self Financing
+855,BSc - Botany and Biotechnology,19,0,"Marthoma College of Science And Technology, Ayur",Kollam,Self Financing,Self Financing
+856,BSc - Chemistry,15,0,"Marthoma College of Science And Technology, Ayur",Kollam,Self Financing,Self Financing
+857,BSc - Computer Science,12,0,"Marthoma College of Science And Technology, Ayur",Kollam,Self Financing,Self Financing
+858,BSc - Electronics,14,0,"Marthoma College of Science And Technology, Ayur",Kollam,Self Financing,Self Financing
+859,BSc - Polymer Chemistry,21,0,"Marthoma College of Science And Technology, Ayur",Kollam,Self Financing,Self Financing
+860,BCom - Commerce with Computer Application,0,0,"Marthoma College of Science And Technology, Ayur",Kollam,Self Financing,Self Financing
+861,BCA - Computer Applications,7,0,"Marthoma College of Science And Technology, Ayur",Kollam,Self Financing,Self Financing
+862,BBA - Business Administration,6,0,"Marthoma College of Science And Technology, Ayur",Kollam,Self Financing,Self Financing
+863,BCom - Finance,8,0,"Marthoma College of Science And Technology, Ayur",Kollam,Self Financing,Self Financing
+864,BVoc - Food Processing,16,0,"Snehacharya Institute of Management and Technology, Karuvatta",Alappuzha,Self Financing,Self Financing
+865,BVoc - Travel and Tourism,24,0,"Snehacharya Institute of Management and Technology, Karuvatta",Alappuzha,Self Financing,Self Financing
+866,BVoc - Food Processing,8,0,"Lourdes Matha Institute of Hotel Management and Catering Technology, Kuttichal",Thiruvananthapuram,Self Financing,Self Financing
+867,BA - English & Communicative English,0,0,"National College, Ambalathara",Thiruvananthapuram,Self Financing,Self Financing
+868,BSc - Botany,1,0,"National College, Ambalathara",Thiruvananthapuram,Self Financing,Self Financing
+869,BSc - Botany and Biotechnology,3,0,"National College, Ambalathara",Thiruvananthapuram,Self Financing,Self Financing
+870,BSc - Computer Science,0,0,"National College, Ambalathara",Thiruvananthapuram,Self Financing,Self Financing
+871,BSc - Electronics,6,0,"National College, Ambalathara",Thiruvananthapuram,Self Financing,Self Financing
+872,BSc - Biochemistry and Industrial Microbiology,8,0,"National College, Ambalathara",Thiruvananthapuram,Self Financing,Self Financing
+873,BSc - Physics and Computer Application,5,0,"National College, Ambalathara",Thiruvananthapuram,Self Financing,Self Financing
+874,BCom - Commerce & Tax Procedure and Practice,0,0,"National College, Ambalathara",Thiruvananthapuram,Self Financing,Self Financing
+875,BCA - Computer Applications,0,0,"National College, Ambalathara",Thiruvananthapuram,Self Financing,Self Financing
+876,BBA - Business Administration,0,0,"National College, Ambalathara",Thiruvananthapuram,Self Financing,Self Financing
+877,BSW - Bachelor of Social Work,0,0,"National College, Ambalathara",Thiruvananthapuram,Self Financing,Self Financing
+878,BCom - Computer Application,0,0,"National College, Ambalathara",Thiruvananthapuram,Self Financing,Self Financing
+879,BA - English & Communicative English,11,0,"Muslim Association College of Arts and Science, Panavoor",Thiruvananthapuram,Self Financing,Self Financing
+880,BA - Economics,16,0,"Muslim Association College of Arts and Science, Panavoor",Thiruvananthapuram,Self Financing,Self Financing
+881,BA - Sociology,11,2,"Muslim Association College of Arts and Science, Panavoor",Thiruvananthapuram,Self Financing,Self Financing
+882,BSc - Computer Science,9,0,"Muslim Association College of Arts and Science, Panavoor",Thiruvananthapuram,Self Financing,Self Financing
+883,BCom - Commerce with Computer Application,7,0,"Muslim Association College of Arts and Science, Panavoor",Thiruvananthapuram,Self Financing,Self Financing
+884,BBA - Business Administration,6,0,SDV College of Arts & Applied Science,Thiruvananthapuram,Self Financing,Self Financing
+885,BCom - Co-operation,12,0,SDV College of Arts & Applied Science,Thiruvananthapuram,Self Financing,Self Financing
+886,BA - English & Communicative English,30,0,SDV College of Arts & Applied Science,Alappuzha,Self Financing,Self Financing
+887,BA - English,27,0,SDV College of Arts & Applied Science,Alappuzha,Self Financing,Self Financing
+888,BA - Journalism and Mass Communication,29,0,SDV College of Arts & Applied Science,Alappuzha,Self Financing,Self Financing
+889,BSc - Biotechnology,28,0,SDV College of Arts & Applied Science,Alappuzha,Self Financing,Self Financing
+890,BCom - Commerce & Tourism and Travel Management,28,0,SDV College of Arts & Applied Science,Alappuzha,Self Financing,Self Financing
+891,BBA - Business Administration,22,0,SDV College of Arts & Applied Science,Alappuzha,Self Financing,Self Financing
+892,BCom - Finance,25,0,SDV College of Arts & Applied Science,Alappuzha,Self Financing,Self Financing
+893,BCom - Computer Application,24,0,SDV College of Arts & Applied Science,Alappuzha,Self Financing,Self Financing
+894,BA - English,18,0,"Sree Narayana Guru College of Advanced Studies, Sivagiri, Varkala",Thiruvananthapuram,Self Financing,Self Financing
+895,BA - Political Science,23,0,"Sree Narayana Guru College of Advanced Studies, Sivagiri, Varkala",Thiruvananthapuram,Self Financing,Self Financing
+896,BSc - Psychology,11,0,"Sree Narayana Guru College of Advanced Studies, Sivagiri, Varkala",Thiruvananthapuram,Self Financing,Self Financing
+897,BSc - Geology,16,0,"Sree Narayana Guru College of Advanced Studies, Sivagiri, Varkala",Thiruvananthapuram,Self Financing,Self Financing
+898,BSc - Physics,18,0,"Sree Narayana Guru College of Advanced Studies, Sivagiri, Varkala",Thiruvananthapuram,Self Financing,Self Financing
+899,BCom - Commerce & Tax Procedure and Practice,12,0,"Sree Narayana Guru College of Advanced Studies, Sivagiri, Varkala",Thiruvananthapuram,Self Financing,Self Financing
+900,BCom - Co-operation,13,0,"Sree Narayana Guru College of Advanced Studies, Sivagiri, Varkala",Thiruvananthapuram,Self Financing,Self Financing
+901,BA - English,19,0,"Sree Vidyadhiraja Arts and Science College, Karunagappally",Kollam,Self Financing,Self Financing
+902,BA - Malayalam,23,0,"Sree Vidyadhiraja Arts and Science College, Karunagappally",Kollam,Self Financing,Self Financing
+903,BSc - Mathematics,22,0,"Sree Vidyadhiraja Arts and Science College, Karunagappally",Kollam,Self Financing,Self Financing
+904,BSc - Physics,16,0,"Sree Vidyadhiraja Arts and Science College, Karunagappally",Kollam,Self Financing,Self Financing
+905,BCom - Commerce with Computer Application,9,0,"Sree Vidyadhiraja Arts and Science College, Karunagappally",Kollam,Self Financing,Self Financing
+906,BCA - Computer Applications,3,0,"Sree Vidyadhiraja Arts and Science College, Karunagappally",Kollam,Self Financing,Self Financing
+907,BBA - Business Administration,9,0,"Sree Vidyadhiraja Arts and Science College, Karunagappally",Kollam,Self Financing,Self Financing
+908,BSW - Bachelor of Social Work,14,0,"Sree Vidyadhiraja Arts and Science College, Karunagappally",Kollam,Self Financing,Self Financing
+909,BCom - Co-operation,0,0,"Sree Vidyadhiraja Arts and Science College, Karunagappally",Kollam,Self Financing,Self Financing
